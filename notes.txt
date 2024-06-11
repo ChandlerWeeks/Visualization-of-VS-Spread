@@ -1,0 +1,6 @@
+Okay, so heres whats left to do
+
+1. Add a date slider that works in terms of months instead of individual days
+2. Add a function for cases recognition in a range of dates. 
+3. Update data to properly include odd cases out
+4. Send to Dr. Chen
