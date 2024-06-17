@@ -11,10 +11,8 @@ class data_reciever:
   def recieve_data(self):
     self.data = pd.read_csv(self.file)
     
-  def filter_rows(self, year):
-    return self.data[self.data['ONSET_YEAR'] == year]
     
-def get_fip():
+def get_fips():
   fips = pd.read_csv('./data/state_and_county_fips_master.csv', dtype={'fips': str})
   return fips
 
@@ -28,65 +26,68 @@ def get_mexican_states():
 
 def create_useable_MX_dataframe(data):
   municipalities = get_mexican_municipalities()
-  states = get_mexican_states()
-  data['location'] = np.nan 
-
-  state_mapping = states.set_index('State')['Conv'].to_dict()
+  data['location'] = np.NaN
 
   for _, state in municipalities.iterrows():
-    state_name = state['STATE']
-    municipalities_name = state['NAME']
-    CVEGEO = state['GEO_ID']
-    mask = (data['COUNTRY'] == 'MEX') & (data['COUNTY_MUNI'] == municipalities_name.lower())
-    data['location'] = data['location'].astype(str)
-    data.loc[mask, 'location'] = CVEGEO
+    municipality_name = state['NAME']
+    GEO_ID = state['GEO_ID']
+    mask = (data['COUNTRY'] == 'MEX') & (data['COUNTY_MUNI'] == municipality_name.lower())
+    #data['location'] = data['location'].astype(str)
+    data.loc[mask, 'location'] = GEO_ID
 
   data['date'] = pd.to_datetime(data['date'])
-  data['month_year'] = data['date'].dt.to_period('Y')
+  data['year'] = data['date'].dt.to_period('Y')
+  data['month'] = data['date'].dt.month
 
   new_data = pd.DataFrame({
     'location': data['location'],
-    'date': data['month_year'],
-    'Name': data['COUNTY_MUNI'].str.title(),
+    'year': data['year'],
+    'month': data['month'],
+    'name': data['COUNTY_MUNI'].str.title(),
     'cases': 0
   })
 
   # drop na data
-  new_data = new_data.dropna(subset=['Name'])
-  new_data = new_data[~new_data.applymap(lambda x: x == 'nan').any(axis=1)]
+  new_data = new_data.dropna(subset=['name', 'location'])
 
   return new_data
 
 def create_useable_US_dataframe(data):
-  fips = get_fip()
-  data['location'] = np.nan  # Initialize a new column 'fips' with Null values
+  fips = get_fips()
+  data['location'] = np.NaN  # Initialize a new column 'fips' with Null values
 
   for idx, row in fips.iterrows():
     mask = (data['STATE'] == str(row['state'])) & (data['COUNTY_MUNI'] == str(row['name']).lower()) & (data['COUNTRY'] == 'USA')
-    data['location'] = data['location'].astype(str)  
+    #data['location'] = data['location'].astype(str)  
     data.loc[mask, 'location'] = row['fips'] 
 
   data = data.dropna(subset=['location'])  
 
   data['date'] = pd.to_datetime(data['date'])
-  data['month_year'] = data['date'].dt.to_period('Y')
+  data['year'] = data['date'].dt.to_period('Y')
+  data['month'] = data['date'].dt.month
 
   new_data = pd.DataFrame({
     'location': data['location'],
-    'date': data['month_year'],
-    'Name': data['COUNTY_MUNI'].str.title(),
+    'year': data['year'],
+    'month': data['month'],
+    'name': data['COUNTY_MUNI'].str.title(),
     'cases': 0
   })
 
-  new_data = new_data.dropna(subset=['Name'])
-  new_data = new_data[~new_data.applymap(lambda x: x == 'nan').any(axis=1)]
+  new_data = new_data.dropna(subset=['name', 'location'])
 
   return new_data
 
 def aggregate_cases(data):
   data['cases'] = 1
-  aggregaged_data = data.groupby(['location', 'date', 'Name']).sum().reset_index()
-  return aggregaged_data.sort_values(by=['date'])
+  aggregaged_data = data.groupby(['location', 'name', 'year']).sum().reset_index()
+  aggregaged_data = aggregaged_data.sort_values(by=['year', 'month'])
+  aggregaged_data = aggregaged_data.dropna(subset=['location'])
+
+  print(aggregaged_data)
+  
+  return aggregaged_data
 
 # merges US counties and Mexican municipalities
 def get_locations(data):
@@ -94,9 +95,5 @@ def get_locations(data):
   mx_data = create_useable_MX_dataframe(data)
 
   data = pd.concat([us_data, mx_data])
-  data.dropna(subset=['Name'], inplace=True)
   aggregated_cases = aggregate_cases(data)
-
-  print(aggregated_cases)
-
   return aggregated_cases

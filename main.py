@@ -1,5 +1,3 @@
-import pandas
-import numpy as np
 from data_retrieval import data_reciever
 from visualization import data_visualizer
 

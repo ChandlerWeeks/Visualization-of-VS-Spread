@@ -1,46 +1,46 @@
-﻿GEO_ID,STATE,COUNTY,NAME
-MX01008,01,008,San José de Gracia
-MX01009,01,009,Tepezalá
+GEO_ID,STATE,COUNTY,NAME
+MX01008,01,008,San Jose de Gracia
+MX01009,01,009,Tepezala
 MX01010,01,010,El Llano
 MX01011,01,011,San Francisco de los Romo
 MX01001,01,001,Aguascalientes
 MX01002,01,002,Asientos
 MX01003,01,003,Calvillo
-MX01004,01,004,Cosío
-MX01005,01,005,Jesús María
-MX01006,01,006,Pabellón de Arteaga
-MX01007,01,007,Rincón de Romos
+MX01004,01,004,Cosio
+MX01005,01,005,Jesus Maria
+MX01006,01,006,Pabellon de Arteaga
+MX01007,01,007,Rincon de Romos
 MX02002,02,002,Mexicali
 MX02005,02,005,Playas de Rosarito
 MX02001,02,001,Ensenada
-MX02006,02,006,San Quintín
+MX02006,02,006,San Quintin
 MX02007,02,007,San Felipe
 MX02003,02,003,Tecate
 MX02004,02,004,Tijuana
-MX03001,03,001,Comondú
-MX03002,03,002,Mulegé
+MX03001,03,001,Comondu
+MX03002,03,002,Mulege
 MX03003,03,003,La Paz
 MX03008,03,008,Los Cabos
 MX03009,03,009,Loreto
 MX04002,04,002,Campeche
 MX04003,04,003,Carmen
-MX04004,04,004,Champotón
+MX04004,04,004,Champoton
 MX04011,04,011,Candelaria
-MX04001,04,001,Calkiní
-MX04005,04,005,Hecelchakán
+MX04001,04,001,Calkini
+MX04005,04,005,Hecelchakan
 MX04012,04,012,Seybaplaya
-MX04006,04,006,Hopelchén
+MX04006,04,006,Hopelchen
 MX04007,04,007,Palizada
 MX04008,04,008,Tenabo
-MX04009,04,009,Escárcega
+MX04009,04,009,Escarcega
 MX04010,04,010,Calakmul
-MX04013,04,013,Dzitbalché
+MX04013,04,013,Dzitbalche
 MX05016,05,016,Lamadrid
 MX05029,05,029,Sacramento
 MX05036,05,036,Viesca
-MX05014,05,014,Jiménez
-MX05035,05,035,Torreón
-MX05002,05,002,Acuña
+MX05014,05,014,Jimenez
+MX05035,05,035,Torreon
+MX05002,05,002,Acuna
 MX05004,05,004,Arteaga
 MX05005,05,005,Candela
 MX05027,05,027,Ramos Arizpe
@@ -54,49 +54,49 @@ MX05018,05,018,Monclova
 MX05012,05,012,Guerrero
 MX05030,05,030,Saltillo
 MX05031,05,031,San Buenaventura
-MX05020,05,020,Múzquiz
+MX05020,05,020,Muzquiz
 MX05010,05,010,Frontera
 MX05021,05,021,Nadadores
 MX05032,05,032,San Juan de Sabinas
-MX05006,05,006,Castaños
-MX05007,05,007,Cuatro Ciénegas
+MX05006,05,006,Castanos
+MX05007,05,007,Cuatro Cienegas
 MX05008,05,008,Escobedo
 MX05011,05,011,General Cepeda
 MX05013,05,013,Hidalgo
-MX05015,05,015,Juárez
+MX05015,05,015,Juarez
 MX05022,05,022,Nava
 MX05026,05,026,Progreso
 MX05019,05,019,Morelos
 MX05028,05,028,Sabinas
 MX05034,05,034,Sierra Mojada
-MX05037,05,037,Villa Unión
+MX05037,05,037,Villa Union
 MX05038,05,038,Zaragoza
 MX05001,05,001,Abasolo
 MX05003,05,003,Allende
-MX06004,06,004,Coquimatlán
-MX06010,06,010,Villa de Álvarez
-MX06008,06,008,Minatitlán
-MX06009,06,009,Tecomán
+MX06004,06,004,Coquimatlan
+MX06010,06,010,Villa de Alvarez
+MX06008,06,008,Minatitlan
+MX06009,06,009,Tecoman
 MX06003,06,003,Comala
-MX06001,06,001,Armería
+MX06001,06,001,Armeria
 MX06002,06,002,Colima
-MX06005,06,005,Cuauhtémoc
-MX06006,06,006,Ixtlahuacán
+MX06005,06,005,Cuauhtemoc
+MX06006,06,006,Ixtlahuacan
 MX06007,06,007,Manzanillo
 MX07086,07,086,Suchiapa
 MX07090,07,090,Tapalapa
 MX07032,07,032,Escuintla
 MX07035,07,035,Frontera Hidalgo
-MX07037,07,037,Huehuetán
-MX07071,07,071,Villa Comaltitlán
+MX07037,07,037,Huehuetan
+MX07071,07,071,Villa Comaltitlan
 MX07059,07,059,Ocosingo
 MX07061,07,061,Ocozocoautla de Espinosa
 MX07064,07,064,Oxchuc
-MX07066,07,066,Pantelhó
-MX07078,07,078,San Cristóbal de las Casas
+MX07066,07,066,Pantelho
+MX07078,07,078,San Cristobal de las Casas
 MX07018,07,018,Coapilla
-MX07022,07,022,Chalchihuitán
-MX07092,07,092,Tecpatán
+MX07022,07,022,Chalchihuitan
+MX07092,07,092,Tecpatan
 MX07094,07,094,Teopisca
 MX07125,07,125,Honduras de la Sierra
 MX07080,07,080,Siltepec
@@ -108,26 +108,26 @@ MX07075,07,075,Las Rosas
 MX07076,07,076,Sabanilla
 MX07057,07,057,Motozintla
 MX07096,07,096,Tila
-MX07097,07,097,Tonalá
+MX07097,07,097,Tonala
 MX07099,07,099,La Trinitaria
-MX07101,07,101,Tuxtla Gutiérrez
+MX07101,07,101,Tuxtla Gutierrez
 MX07102,07,102,Tuxtla Chico
-MX07103,07,103,Tuzantán
+MX07103,07,103,Tuzantan
 MX07104,07,104,Tzimol
 MX07106,07,106,Venustiano Carranza
 MX07107,07,107,Villa Corzo
 MX07108,07,108,Villaflores
-MX07109,07,109,Yajalón
+MX07109,07,109,Yajalon
 MX07079,07,079,San Fernando
-MX07049,07,049,Larráinzar
+MX07049,07,049,Larrainzar
 MX07050,07,050,La Libertad
 MX07051,07,051,Mapastepec
-MX07072,07,072,Pueblo Nuevo Solistahuacán
+MX07072,07,072,Pueblo Nuevo Solistahuacan
 MX07110,07,110,San Lucas
-MX07111,07,111,Zinacantán
+MX07111,07,111,Zinacantan
 MX07023,07,023,Chamula
 MX07081,07,081,Simojovel
-MX07008,07,008,Ángel Albino Corzo
+MX07008,07,008,Angel Albino Corzo
 MX07009,07,009,Arriaga
 MX07017,07,017,Cintalapa de Figueroa
 MX07119,07,119,Santiago el Pinar
@@ -136,83 +136,83 @@ MX07001,07,001,Acacoyagua
 MX07002,07,002,Acala
 MX07003,07,003,Acapetahua
 MX07004,07,004,Altamirano
-MX07005,07,005,Amatán
+MX07005,07,005,Amatan
 MX07006,07,006,Amatenango de la Frontera
 MX07007,07,007,Amatenango del Valle
 MX07010,07,010,Bejucal de Ocampo
 MX07011,07,011,Bella Vista
-MX07012,07,012,Berriozábal
+MX07012,07,012,Berriozabal
 MX07013,07,013,Bochil
 MX07014,07,014,El Bosque
-MX07015,07,015,Cacahoatán
-MX07016,07,016,Catazajá
-MX07019,07,019,Comitán de Domínguez
+MX07015,07,015,Cacahoatan
+MX07016,07,016,Catazaja
+MX07019,07,019,Comitan de Dominguez
 MX07020,07,020,La Concordia
-MX07021,07,021,Copainalá
+MX07021,07,021,Copainala
 MX07024,07,024,Chanal
 MX07025,07,025,Chapultenango
-MX07026,07,026,Chenalhó
+MX07026,07,026,Chenalho
 MX07027,07,027,Chiapa de Corzo
 MX07028,07,028,Chiapilla
-MX07029,07,029,Chicoasén
+MX07029,07,029,Chicoasen
 MX07030,07,030,Chicomuselo
-MX07031,07,031,Chilón
-MX07033,07,033,Francisco León
+MX07031,07,031,Chilon
+MX07033,07,033,Francisco Leon
 MX07034,07,034,Frontera Comalapa
 MX07036,07,036,La Grandeza
-MX07038,07,038,Huixtán
-MX07039,07,039,Huitiupán
+MX07038,07,038,Huixtan
+MX07039,07,039,Huitiupan
 MX07040,07,040,Huixtla
 MX07041,07,041,La Independencia
-MX07042,07,042,Ixhuatán
-MX07043,07,043,Ixtacomitán
+MX07042,07,042,Ixhuatan
+MX07043,07,043,Ixtacomitan
 MX07044,07,044,Ixtapa
 MX07045,07,045,Ixtapangajoya
 MX07046,07,046,Jiquipilas
 MX07047,07,047,Jitotol
-MX07048,07,048,Juárez
+MX07048,07,048,Juarez
 MX07052,07,052,Las Margaritas
 MX07070,07,070,El Porvenir
 MX07053,07,053,Mazapa de Madero
-MX07054,07,054,Mazatán
+MX07054,07,054,Mazatan
 MX07055,07,055,Metapa
 MX07056,07,056,Mitontic
-MX07058,07,058,Nicolás Ruíz
+MX07058,07,058,Nicolas Ruiz
 MX07060,07,060,Ocotepec
-MX07062,07,062,Ostuacán
+MX07062,07,062,Ostuacan
 MX07063,07,063,Osumacinta
 MX07068,07,068,Pichucalco
-MX07073,07,073,Rayón
+MX07073,07,073,Rayon
 MX07074,07,074,Reforma
-MX07082,07,082,Sitalá
+MX07082,07,082,Sitala
 MX07083,07,083,Socoltenango
 MX07084,07,084,Solosuchiapa
-MX07085,07,085,Soyaló
+MX07085,07,085,Soyalo
 MX07087,07,087,Suchiate
 MX07088,07,088,Sunuapa
 MX07089,07,089,Tapachula
-MX07120,07,120,Capitán Luis Ángel Vidal
+MX07120,07,120,Capitan Luis Angel Vidal
 MX07091,07,091,Tapilula
 MX07093,07,093,Tenejapa
 MX07098,07,098,Totolapa
-MX07100,07,100,Tumbalá
-MX07105,07,105,Unión Juárez
+MX07100,07,100,Tumbala
+MX07105,07,105,Union Juarez
 MX07112,07,112,San Juan Cancuc
 MX07113,07,113,Aldama
-MX07114,07,114,Benemérito de las Américas
+MX07114,07,114,Benemerito de las Americas
 MX07115,07,115,Maravilla Tenejapa
-MX07116,07,116,Marqués de Comillas
+MX07116,07,116,Marques de Comillas
 MX07117,07,117,Montecristo de Guerrero
-MX07118,07,118,San Andrés Duraznal
-MX07121,07,121,Rincón Chamula San Pedro
+MX07118,07,118,San Andres Duraznal
+MX07121,07,121,Rincon Chamula San Pedro
 MX07123,07,123,Emiliano Zapata
 MX07124,07,124,Mezcalapa
-MX08043,08,043,Matachí
+MX08043,08,043,Matachi
 MX08003,08,003,Allende
 MX08014,08,014,Coronado
-MX08061,08,061,Satevó
+MX08061,08,061,Satevo
 MX08062,08,062,Saucillo
-MX08063,08,063,Temósachic
+MX08063,08,063,Temosachic
 MX08067,08,067,Valle de Zaragoza
 MX08044,08,044,Matamoros
 MX08045,08,045,Meoqui
@@ -221,7 +221,7 @@ MX08047,08,047,Moris
 MX08048,08,048,Namiquipa
 MX08002,08,002,Aldama
 MX08059,08,059,San Francisco del Oro
-MX08037,08,037,Juárez
+MX08037,08,037,Juarez
 MX08019,08,019,Chihuahua
 MX08024,08,024,Santa Isabel
 MX08064,08,064,El Tule
@@ -230,30 +230,30 @@ MX08027,08,027,Guachochi
 MX08028,08,028,Guadalupe
 MX08030,08,030,Guazapares
 MX08032,08,032,Hidalgo del Parral
-MX08033,08,033,Huejotitán
+MX08033,08,033,Huejotitan
 MX08034,08,034,Ignacio Zaragoza
 MX08035,08,035,Janos
 MX08038,08,038,Julimes
-MX08039,08,039,López
+MX08039,08,039,Lopez
 MX08040,08,040,Madera
 MX08042,08,042,Manuel Benavides
-MX08005,08,005,Ascensión
+MX08005,08,005,Ascension
 MX08052,08,052,Ojinaga
-MX08006,08,006,Bachíniva
-MX08008,08,008,Batopilas de Manuel Gómez Morín
+MX08006,08,006,Bachiniva
+MX08008,08,008,Batopilas de Manuel Gomez Morin
 MX08009,08,009,Bocoyna
 MX08010,08,010,Buenaventura
 MX08011,08,011,Camargo
-MX08012,08,012,Carichí
+MX08012,08,012,Carichi
 MX08013,08,013,Casas Grandes
 MX08015,08,015,Coyame del Sotol
 MX08016,08,016,La Cruz
-MX08017,08,017,Cuauhtémoc
-MX08020,08,020,Chínipas
+MX08017,08,017,Cuauhtemoc
+MX08020,08,020,Chinipas
 MX08021,08,021,Delicias
-MX08022,08,022,Dr. Belisario Domínguez
+MX08022,08,022,Dr. Belisario Dominguez
 MX08023,08,023,Galeana
-MX08025,08,025,Gómez Farías
+MX08025,08,025,Gomez Farias
 MX08055,08,055,Rosales
 MX08031,08,031,Guerrero
 MX08050,08,050,Nuevo Casas Grandes
@@ -267,96 +267,96 @@ MX08018,08,018,Cusihuiriachi
 MX08065,08,065,Urique
 MX08066,08,066,Uruachi
 MX08041,08,041,Maguarichi
-MX08004,08,004,Aquiles Serdán
+MX08004,08,004,Aquiles Serdan
 MX08053,08,053,Praxedis G. Guerrero
 MX08057,08,057,San Francisco de Borja
-MX08060,08,060,Santa Bárbara
+MX08060,08,060,Santa Barbara
 MX08029,08,029,Guadalupe y Calvo
-MX08036,08,036,Jiménez
+MX08036,08,036,Jimenez
 MX08049,08,049,Nonoava
-MX09003,09,003,Coyoacán
+MX09003,09,003,Coyoacan
 MX09007,09,007,Iztapalapa
 MX09008,09,008,La Magdalena Contreras
 MX09009,09,009,Milpa Alta
-MX09010,09,010,Álvaro Obregón
-MX09011,09,011,Tláhuac
+MX09010,09,010,Alvaro Obregon
+MX09011,09,011,Tlahuac
 MX09012,09,012,Tlalpan
 MX09013,09,013,Xochimilco
 MX09006,09,006,Iztacalco
-MX09015,09,015,Cuauhtémoc
+MX09015,09,015,Cuauhtemoc
 MX09017,09,017,Venustiano Carranza
 MX09002,09,002,Azcapotzalco
 MX09016,09,016,Miguel Hidalgo
 MX09005,09,005,Gustavo A. Madero
 MX09004,09,004,Cuajimalpa de Morelos
-MX09014,09,014,Benito Juárez
+MX09014,09,014,Benito Juarez
 MX10025,10,025,San Bernardo
 MX10027,10,027,San Juan de Guadalupe
 MX10035,10,035,Tepehuanes
 MX10023,10,023,Pueblo Nuevo
-MX10019,10,019,Otáez
+MX10019,10,019,Otaez
 MX10022,10,022,Poanas
 MX10026,10,026,San Dimas
 MX10002,10,002,Canelas
 MX10003,10,003,Coneto de Comonfort
-MX10004,10,004,Cuencamé
-MX10006,10,006,General Simón Bolívar
+MX10004,10,004,Cuencame
+MX10006,10,006,General Simon Bolivar
 MX10008,10,008,Guadalupe Victoria
-MX10009,10,009,Guanaceví
+MX10009,10,009,Guanacevi
 MX10010,10,010,Hidalgo
-MX10011,10,011,Indé
+MX10011,10,011,Inde
 MX10031,10,031,Santa Clara
-MX10013,10,013,Mapimí
+MX10013,10,013,Mapimi
 MX10016,10,016,Nombre de Dios
 MX10018,10,018,El Oro
-MX10020,10,020,Pánuco de Coronado
+MX10020,10,020,Panuco de Coronado
 MX10032,10,032,Santiago Papasquiaro
-MX10007,10,007,Gómez Palacio
+MX10007,10,007,Gomez Palacio
 MX10015,10,015,Nazas
-MX10028,10,028,San Juan del Río
+MX10028,10,028,San Juan del Rio
 MX10030,10,030,San Pedro del Gallo
-MX10021,10,021,Peñón Blanco
+MX10021,10,021,Penon Blanco
 MX10024,10,024,Rodeo
 MX10034,10,034,Tamazula
 MX10039,10,039,Nuevo Ideal
-MX10001,10,001,Canatlán
+MX10001,10,001,Canatlan
 MX10005,10,005,Durango
 MX10012,10,012,Lerdo
 MX10014,10,014,Mezquital
 MX10017,10,017,Ocampo
 MX10038,10,038,Vicente Guerrero
-MX10033,10,033,Súchil
+MX10033,10,033,Suchil
 MX10037,10,037,Topia
 MX10029,10,029,San Luis del Cordero
 MX10036,10,036,Tlahualilo
 MX11035,11,035,Santa Cruz de Juventino Rosas
-MX11031,11,031,San Francisco del Rincón
+MX11031,11,031,San Francisco del Rincon
 MX11009,11,009,Comonfort
 MX11015,11,015,Guanajuato
-MX11016,11,016,Huanímaro
+MX11016,11,016,Huanimaro
 MX11017,11,017,Irapuato
 MX11018,11,018,Jaral del Progreso
-MX11019,11,019,Jerécuaro
-MX11020,11,020,León
-MX11021,11,021,Moroleón
-MX11025,11,025,Purísima del Rincón
+MX11019,11,019,Jerecuaro
+MX11020,11,020,Leon
+MX11021,11,021,Moroleon
+MX11025,11,025,Purisima del Rincon
 MX11026,11,026,Romita
 MX11027,11,027,Salamanca
 MX11028,11,028,Salvatierra
-MX11029,11,029,San Diego de la Unión
-MX11032,11,032,San José Iturbide
+MX11029,11,029,San Diego de la Union
+MX11032,11,032,San Jose Iturbide
 MX11033,11,033,San Luis de la Paz
 MX11034,11,034,Santa Catarina
 MX11043,11,043,Victoria
-MX11045,11,045,Xichú
+MX11045,11,045,Xichu
 MX11006,11,006,Atarjea
 MX11011,11,011,Cortazar
-MX11012,11,012,Cuerámaro
-MX11036,11,036,Santiago Maravatío
+MX11012,11,012,Cueramaro
+MX11036,11,036,Santiago Maravatio
 MX11038,11,038,Tarandacuao
 MX11039,11,039,Tarimoro
 MX11040,11,040,Tierra Blanca
-MX11002,11,002,Acámbaro
+MX11002,11,002,Acambaro
 MX11013,11,013,Doctor Mora
 MX11014,11,014,Dolores Hidalgo Cuna de la Independencia Nacional
 MX11022,11,022,Ocampo
@@ -369,70 +369,70 @@ MX11005,11,005,Apaseo el Grande
 MX11007,11,007,Celaya
 MX11008,11,008,Manuel Doblado
 MX11001,11,001,Abasolo
-MX11023,11,023,Pénjamo
+MX11023,11,023,Penjamo
 MX11037,11,037,Silao de la Victoria
 MX11042,11,042,Valle de Santiago
-MX11044,11,044,Villagrán
+MX11044,11,044,Villagran
 MX11046,11,046,Yuriria
 MX11010,11,010,Coroneo
-MX12043,12,043,Metlatónoc
-MX12069,12,069,Xalpatláhuac
-MX12070,12,070,Xochihuehuetlán
+MX12043,12,043,Metlatonoc
+MX12069,12,069,Xalpatlahuac
+MX12070,12,070,Xochihuehuetlan
 MX12071,12,071,Xochistlahuaca
-MX12072,12,072,Zapotitlán Tablas
+MX12072,12,072,Zapotitlan Tablas
 MX12074,12,074,Zitlala
 MX12075,12,075,Eduardo Neri
 MX12076,12,076,Acatepec
 MX12077,12,077,Marquelia
 MX12078,12,078,Cochoapa el Grande
-MX12048,12,048,Petatlán
+MX12048,12,048,Petatlan
 MX12053,12,053,San Marcos
 MX12054,12,054,San Miguel Totolapan
 MX12047,12,047,Pedro Ascencio Alquisiras
 MX12049,12,049,Pilcaya
 MX12050,12,050,Pungarabato
 MX12051,12,051,Quechultenango
-MX12052,12,052,San Luis Acatlán
-MX12045,12,045,Olinalá
+MX12052,12,052,San Luis Acatlan
+MX12045,12,045,Olinala
 MX12046,12,046,Ometepec
-MX12042,12,042,Mártir de Cuilapan
-MX12044,12,044,Mochitlán
+MX12042,12,042,Martir de Cuilapan
+MX12044,12,044,Mochitlan
 MX12040,12,040,Leonardo Bravo
 MX12041,12,041,Malinaltepec
 MX12038,12,038,Zihuatanejo de Azueta
 MX12039,12,039,Juan R. Escudero
 MX12002,12,002,Ahuacuotzingo
-MX12003,12,003,Ajuchitlán del Progreso
+MX12003,12,003,Ajuchitlan del Progreso
 MX12036,12,036,Igualapa
 MX12034,12,034,Huitzuco de los Figueroa
 MX12035,12,035,Iguala de la Independencia
 MX12032,12,032,General Heliodoro Castillo
-MX12033,12,033,Huamuxtitlán
+MX12033,12,033,Huamuxtitlan
 MX12031,12,031,General Canuto A. Neri
-MX12028,12,028,Chilapa de Álvarez
+MX12028,12,028,Chilapa de Alvarez
 MX12029,12,029,Chilpancingo de los Bravo
 MX12059,12,059,Tepecoacuilco de Trujano
 MX12061,12,061,Tixtla de Guerrero
 MX12062,12,062,Tlacoachistlahuaca
 MX12025,12,025,Cuautepec
 MX12026,12,026,Cuetzala del Progreso
-MX12016,12,016,Coahuayutla de José María Izazaga
+MX12016,12,016,Coahuayutla de Jose Maria Izazaga
 MX12017,12,017,Cocula
 MX12020,12,020,Copanatoyac
-MX12021,12,021,Coyuca de Benítez
-MX12022,12,022,Coyuca de Catalán
+MX12021,12,021,Coyuca de Benitez
+MX12022,12,022,Coyuca de Catalan
 MX12023,12,023,Cuajinicuilapa
 MX12060,12,060,Tetipac
 MX12063,12,063,Tlacoapa
 MX12012,12,012,Ayutla de los Libres
-MX12013,12,013,Azoyú
+MX12013,12,013,Azoyu
 MX12010,12,010,Atlixtac
-MX12011,12,011,Atoyac de Álvarez
-MX12008,12,008,Atenango del Río
+MX12011,12,011,Atoyac de Alvarez
+MX12008,12,008,Atenango del Rio
 MX12009,12,009,Atlamajalcingo del Monte
-MX12068,12,068,La Unión de Isidoro Montes de Oca
+MX12068,12,068,La Union de Isidoro Montes de Oca
 MX12004,12,004,Alcozauca de Guerrero
-MX12001,12,001,Acapulco de Juárez
+MX12001,12,001,Acapulco de Juarez
 MX12018,12,018,Copala
 MX12019,12,019,Copalillo
 MX12064,12,064,Tlalchapa
@@ -441,33 +441,33 @@ MX12007,12,007,Arcelia
 MX12030,12,030,Florencio Villarreal
 MX12081,12,081,Iliatenco
 MX12066,12,066,Tlapa de Comonfort
-MX12014,12,014,Benito Juárez
-MX12015,12,015,Buenavista de Cuéllar
+MX12014,12,014,Benito Juarez
+MX12015,12,015,Buenavista de Cuellar
 MX12067,12,067,Tlapehuala
-MX12073,12,073,Zirándaro
-MX12079,12,079,José Joaquín de Herrera
+MX12073,12,073,Zirandaro
+MX12079,12,079,Jose Joaquin de Herrera
 MX12005,12,005,Alpoyeca
-MX12024,12,024,Cualác
-MX12027,12,027,Cutzamala de Pinzón
-MX12037,12,037,Ixcateopan de Cuauhtémoc
-MX12055,12,055,Taxco de Alarcón
+MX12024,12,024,Cualac
+MX12027,12,027,Cutzamala de Pinzon
+MX12037,12,037,Ixcateopan de Cuauhtemoc
+MX12055,12,055,Taxco de Alarcon
 MX12056,12,056,Tecoanapa
-MX12057,12,057,Técpan de Galeana
+MX12057,12,057,Tecpan de Galeana
 MX12058,12,058,Teloloapan
 MX12065,12,065,Tlalixtaquilla de Maldonado
-MX12080,12,080,Juchitán
+MX12080,12,080,Juchitan
 MX12082,12,082,Las Vigas
-MX12083,12,083,Ñuu Savi
-MX12084,12,084,Santa Cruz del Rincón
-MX12085,12,085,San Nicolás
+MX12083,12,083,Nuu Savi
+MX12084,12,084,Santa Cruz del Rincon
+MX12085,12,085,San Nicolas
 MX13029,13,029,Huichapan
 MX13034,13,034,Lolotla
 MX13030,13,030,Ixmiquilpan
 MX13031,13,031,Jacala de Ledezma
-MX13033,13,033,Juárez Hidalgo
+MX13033,13,033,Juarez Hidalgo
 MX13035,13,035,Metepec
-MX13036,13,036,San Agustín Metzquititlán
-MX13037,13,037,Metztitlán
+MX13036,13,036,San Agustin Metzquititlan
+MX13037,13,037,Metztitlan
 MX13038,13,038,Mineral del Chico
 MX13006,13,006,Alfajayucan
 MX13007,13,007,Almoloya
@@ -482,25 +482,25 @@ MX13015,13,015,Cardonal
 MX13016,13,016,Cuautepec de Hinojosa
 MX13021,13,021,Emiliano Zapata
 MX13083,13,083,Zempoala
-MX13084,13,084,Zimapán
+MX13084,13,084,Zimapan
 MX13071,13,071,Tlahuiltepa
 MX13072,13,072,Tlanalapa
-MX13081,13,081,Zacualtipán de Ángeles
-MX13082,13,082,Zapotlán de Juárez
+MX13081,13,081,Zacualtipan de Angeles
+MX13082,13,082,Zapotlan de Juarez
 MX13075,13,075,Tolcayuca
 MX13076,13,076,Tula de Allende
 MX13078,13,078,Xochiatipan
 MX13073,13,073,Tlanchinol
 MX13017,13,017,Chapantongo
-MX13044,13,044,Nopala de Villagrán
-MX13045,13,045,Omitlán de Juárez
-MX13046,13,046,San Felipe Orizatlán
+MX13044,13,044,Nopala de Villagran
+MX13045,13,045,Omitlan de Juarez
+MX13046,13,046,San Felipe Orizatlan
 MX13047,13,047,Pacula
 MX13048,13,048,Pachuca de Soto
 MX13049,13,049,Pisaflores
 MX13077,13,077,Tulancingo de Bravo
-MX13018,13,018,Chapulhuacán
-MX13020,13,020,Eloxochitlán
+MX13018,13,018,Chapulhuacan
+MX13020,13,020,Eloxochitlan
 MX13022,13,022,Epazoyucan
 MX13023,13,023,Francisco I. Madero
 MX13024,13,024,Huasca de Ocampo
@@ -509,19 +509,19 @@ MX13025,13,025,Huautla
 MX13026,13,026,Huazalingo
 MX13027,13,027,Huehuetla
 MX13028,13,028,Huejutla de Reyes
-MX13043,13,043,Nicolás Flores
+MX13043,13,043,Nicolas Flores
 MX13066,13,066,Villa de Tezontepec
 MX13068,13,068,Tianguistengo
 MX13069,13,069,Tizayuca
 MX13019,13,019,Chilcuautla
-MX13032,13,032,Jaltocán
-MX13041,13,041,Mixquiahuala de Juárez
-MX13079,13,079,Xochicoatlán
+MX13032,13,032,Jaltocan
+MX13041,13,041,Mixquiahuala de Juarez
+MX13079,13,079,Xochicoatlan
 MX13080,13,080,Yahualica
 MX13004,13,004,Agua Blanca de Iturbide
 MX13005,13,005,Ajacuba
 MX13039,13,039,Mineral del Monte
-MX13040,13,040,La Misión
+MX13040,13,040,La Mision
 MX13042,13,042,Molango de Escamilla
 MX13056,13,056,Santiago Tulantepec de Lugo Guerrero
 MX13057,13,057,Singuilucan
@@ -529,17 +529,17 @@ MX13058,13,058,Tasquillo
 MX13059,13,059,Tecozautla
 MX13060,13,060,Tenango de Doria
 MX13061,13,061,Tepeapulco
-MX13062,13,062,Tepehuacán de Guerrero
-MX13063,13,063,Tepeji del Río de Ocampo
-MX13050,13,050,Progreso de Obregón
-MX13064,13,064,Tepetitlán
+MX13062,13,062,Tepehuacan de Guerrero
+MX13063,13,063,Tepeji del Rio de Ocampo
+MX13050,13,050,Progreso de Obregon
+MX13064,13,064,Tepetitlan
 MX13051,13,051,Mineral de la Reforma
-MX13052,13,052,San Agustín Tlaxiaca
+MX13052,13,052,San Agustin Tlaxiaca
 MX13053,13,053,San Bartolo Tutotepec
 MX13054,13,054,San Salvador
 MX13055,13,055,Santiago de Anaya
-MX13001,13,001,Acatlán
-MX13002,13,002,Acaxochitlán
+MX13001,13,001,Acatlan
+MX13002,13,002,Acaxochitlan
 MX13003,13,003,Actopan
 MX13065,13,065,Tetepango
 MX13070,13,070,Tlahuelilpan
@@ -548,117 +548,117 @@ MX14086,14,086,Tapalpa
 MX14043,14,043,La Huerta
 MX14055,14,055,Magdalena
 MX14094,14,094,Tequila
-MX14095,14,095,Teuchitlán
-MX14096,14,096,Tizapán el Alto
-MX14097,14,097,Tlajomulco de Zúñiga
-MX14090,14,090,Tenamaxtlán
+MX14095,14,095,Teuchitlan
+MX14096,14,096,Tizapan el Alto
+MX14097,14,097,Tlajomulco de Zuniga
+MX14090,14,090,Tenamaxtlan
 MX14091,14,091,Teocaltiche
-MX14092,14,092,Teocuitatlán de Corona
+MX14092,14,092,Teocuitatlan de Corona
 MX14017,14,017,Ayutla
 MX14073,14,073,San Juan de los Lagos
-MX14074,14,074,San Julián
+MX14074,14,074,San Julian
 MX14075,14,075,San Marcos
-MX14076,14,076,San Martín de Bolaños
-MX14077,14,077,San Martín Hidalgo
+MX14076,14,076,San Martin de Bolanos
+MX14077,14,077,San Martin Hidalgo
 MX14078,14,078,San Miguel el Alto
-MX14079,14,079,Gómez Farías
-MX14002,14,002,Acatlán de Juárez
+MX14079,14,079,Gomez Farias
+MX14002,14,002,Acatlan de Juarez
 MX14003,14,003,Ahualulco de Mercado
-MX14005,14,005,Amatitán
-MX14025,14,025,Colotlán
-MX14027,14,027,Cuautitlán de García Barragán
+MX14005,14,005,Amatitan
+MX14025,14,025,Colotlan
+MX14027,14,027,Cuautitlan de Garcia Barragan
 MX14028,14,028,Cuautla
 MX14013,14,013,Atotonilco el Alto
 MX14010,14,010,Atemajac de Brizuela
 MX14014,14,014,Atoyac
-MX14015,14,015,Autlán de Navarro
+MX14015,14,015,Autlan de Navarro
 MX14012,14,012,Atenguillo
 MX14116,14,116,Villa Hidalgo
-MX14117,14,117,Cañadas de Obregón
-MX14118,14,118,Yahualica de González Gallo
+MX14117,14,117,Canadas de Obregon
+MX14118,14,118,Yahualica de Gonzalez Gallo
 MX14119,14,119,Zacoalco de Torres
 MX14120,14,120,Zapopan
 MX14121,14,121,Zapotiltic
-MX14122,14,122,Zapotitlán de Vadillo
-MX14123,14,123,Zapotlán del Rey
+MX14122,14,122,Zapotitlan de Vadillo
+MX14123,14,123,Zapotlan del Rey
 MX14124,14,124,Zapotlanejo
 MX14084,14,084,Talpa de Allende
 MX14085,14,085,Tamazula de Gordiano
-MX14087,14,087,Tecalitlán
-MX14088,14,088,Tecolotlán
+MX14087,14,087,Tecalitlan
+MX14088,14,088,Tecolotlan
 MX14089,14,089,Techaluta de Montenegro
-MX14093,14,093,Tepatitlán de Morelos
+MX14093,14,093,Tepatitlan de Morelos
 MX14098,14,098,San Pedro Tlaquepaque
-MX14099,14,099,Tolimán
-MX14100,14,100,Tomatlán
-MX14101,14,101,Tonalá
+MX14099,14,099,Toliman
+MX14100,14,100,Tomatlan
+MX14101,14,101,Tonala
 MX14102,14,102,Tonaya
 MX14103,14,103,Tonila
 MX14104,14,104,Totatiche
-MX14105,14,105,Tototlán
+MX14105,14,105,Tototlan
 MX14106,14,106,Tuxcacuesco
 MX14107,14,107,Tuxcueca
 MX14108,14,108,Tuxpan
-MX14109,14,109,Unión de San Antonio
-MX14110,14,110,Unión de Tula
+MX14109,14,109,Union de San Antonio
+MX14110,14,110,Union de Tula
 MX14111,14,111,Valle de Guadalupe
-MX14112,14,112,Valle de Juárez
+MX14112,14,112,Valle de Juarez
 MX14113,14,113,San Gabriel
 MX14114,14,114,Villa Corona
 MX14115,14,115,Villa Guerrero
-MX14054,14,054,El Limón
-MX14056,14,056,Santa María del Oro
+MX14054,14,054,El Limon
+MX14056,14,056,Santa Maria del Oro
 MX14057,14,057,La Manzanilla de la Paz
 MX14058,14,058,Mascota
 MX14059,14,059,Mazamitla
-MX14060,14,060,Mexticacán
+MX14060,14,060,Mexticacan
 MX14061,14,061,Mezquitic
-MX14062,14,062,Mixtlán
-MX14063,14,063,Ocotlán
+MX14062,14,062,Mixtlan
+MX14063,14,063,Ocotlan
 MX14064,14,064,Ojuelos de Jalisco
 MX14065,14,065,Pihuamo
-MX14016,14,016,Ayotlán
+MX14016,14,016,Ayotlan
 MX14018,14,018,La Barca
-MX14019,14,019,Bolaños
+MX14019,14,019,Bolanos
 MX14020,14,020,Cabo Corrientes
 MX14021,14,021,Casimiro Castillo
-MX14022,14,022,Cihuatlán
-MX14023,14,023,Zapotlán el Grande
+MX14022,14,022,Cihuatlan
+MX14023,14,023,Zapotlan el Grande
 MX14024,14,024,Cocula
-MX14026,14,026,Concepción de Buenos Aires
-MX14029,14,029,Cuquío
+MX14026,14,026,Concepcion de Buenos Aires
+MX14029,14,029,Cuquio
 MX14030,14,030,Chapala
-MX14031,14,031,Chimaltitán
-MX14032,14,032,Chiquilistlán
+MX14031,14,031,Chimaltitan
+MX14032,14,032,Chiquilistlan
 MX14033,14,033,Degollado
 MX14034,14,034,Ejutla
-MX14035,14,035,Encarnación de Díaz
-MX14036,14,036,Etzatlán
+MX14035,14,035,Encarnacion de Diaz
+MX14036,14,036,Etzatlan
 MX14037,14,037,El Grullo
 MX14038,14,038,Guachinango
 MX14039,14,039,Guadalajara
 MX14040,14,040,Hostotipaquillo
-MX14041,14,041,Huejúcar
+MX14041,14,041,Huejucar
 MX14042,14,042,Huejuquilla el Alto
-MX14044,14,044,Ixtlahuacán de los Membrillos
-MX14045,14,045,Ixtlahuacán del Río
-MX14046,14,046,Jalostotitlán
+MX14044,14,044,Ixtlahuacan de los Membrillos
+MX14045,14,045,Ixtlahuacan del Rio
+MX14046,14,046,Jalostotitlan
 MX14047,14,047,Jamay
-MX14048,14,048,Jesús María
-MX14049,14,049,Jilotlán de los Dolores
+MX14048,14,048,Jesus Maria
+MX14049,14,049,Jilotlan de los Dolores
 MX14050,14,050,Jocotepec
-MX14051,14,051,Juanacatlán
-MX14052,14,052,Juchitlán
+MX14051,14,051,Juanacatlan
+MX14052,14,052,Juchitlan
 MX14053,14,053,Lagos de Moreno
-MX14066,14,066,Poncitlán
+MX14066,14,066,Poncitlan
 MX14067,14,067,Puerto Vallarta
-MX14068,14,068,Villa Purificación
+MX14068,14,068,Villa Purificacion
 MX14069,14,069,Quitupan
 MX14070,14,070,El Salto
-MX14071,14,071,San Cristóbal de la Barranca
-MX14072,14,072,San Diego de Alejandría
-MX14080,14,080,San Sebastián del Oeste
-MX14081,14,081,Santa María de los Ángeles
+MX14071,14,071,San Cristobal de la Barranca
+MX14072,14,072,San Diego de Alejandria
+MX14080,14,080,San Sebastian del Oeste
+MX14081,14,081,Santa Maria de los Angeles
 MX14082,14,082,Sayula
 MX14083,14,083,Tala
 MX14001,14,001,Acatic
@@ -674,7 +674,7 @@ MX15040,15,040,Ixtapan de la Sal
 MX15042,15,042,Ixtlahuaca
 MX15062,15,062,Ocoyoacac
 MX15003,15,003,Aculco
-MX15005,15,005,Almoloya de Juárez
+MX15005,15,005,Almoloya de Juarez
 MX15010,15,010,Apaxco
 MX15099,15,099,Texcoco
 MX15009,15,009,Amecameca
@@ -682,43 +682,43 @@ MX15085,15,085,Temascalcingo
 MX15088,15,088,Tenancingo
 MX15034,15,034,Ecatzingo
 MX15041,15,041,Ixtapan del Oro
-MX15031,15,031,Chimalhuacán
-MX15121,15,121,Cuautitlán Izcalli
+MX15031,15,031,Chimalhuacan
+MX15121,15,121,Cuautitlan Izcalli
 MX15122,15,122,Valle de Chalco Solidaridad
 MX15015,15,015,Atlautla
 MX15016,15,016,Axapusco
 MX15017,15,017,Ayapango
 MX15018,15,018,Calimaya
 MX15070,15,070,La Paz
-MX15071,15,071,Polotitlán
-MX15072,15,072,Rayón
+MX15071,15,071,Polotitlan
+MX15072,15,072,Rayon
 MX15073,15,073,San Antonio la Isla
-MX15024,15,024,Cuautitlán
+MX15024,15,024,Cuautitlan
 MX15093,15,093,Tepetlaoxtoc
-MX15079,15,079,Soyaniquilpan de Juárez
+MX15079,15,079,Soyaniquilpan de Juarez
 MX15026,15,026,Chapa de Mota
 MX15094,15,094,Tepetlixpa
 MX15029,15,029,Chicoloapan
 MX15090,15,090,Tenango del Valle
-MX15081,15,081,Tecámac
+MX15081,15,081,Tecamac
 MX15067,15,067,Otzolotepec
 MX15123,15,123,Luvianos
 MX15021,15,021,Coatepec Harinas
 MX15103,15,103,Tlalmanalco
 MX15108,15,108,Tultepec
 MX15111,15,111,Villa de Allende
-MX15112,15,112,Villa del Carbón
+MX15112,15,112,Villa del Carbon
 MX15104,15,104,Tlalnepantla de Baz
 MX15063,15,063,Ocuilan
 MX15068,15,068,Ozumba
-MX15077,15,077,San Simón de Guerrero
+MX15077,15,077,San Simon de Guerrero
 MX15096,15,096,Tequixquiac
 MX15107,15,107,Tonatico
-MX15001,15,001,Acambay de Ruíz Castañeda
+MX15001,15,001,Acambay de Ruiz Castaneda
 MX15008,15,008,Amatepec
-MX15109,15,109,Tultitlán
+MX15109,15,109,Tultitlan
 MX15118,15,118,Zinacantepec
-MX15078,15,078,Santo Tomás
+MX15078,15,078,Santo Tomas
 MX15080,15,080,Sultepec
 MX15082,15,082,Tejupilco
 MX15086,15,086,Temascaltepec
@@ -726,47 +726,47 @@ MX15028,15,028,Chiautla
 MX15002,15,002,Acolman
 MX15004,15,004,Almoloya de Alquisiras
 MX15011,15,011,Atenco
-MX15013,15,013,Atizapán de Zaragoza
+MX15013,15,013,Atizapan de Zaragoza
 MX15014,15,014,Atlacomulco
 MX15019,15,019,Capulhuac
 MX15059,15,059,Nextlalpan
-MX15092,15,092,Teotihuacán
-MX15057,15,057,Naucalpan de Juárez
+MX15092,15,092,Teotihuacan
+MX15057,15,057,Naucalpan de Juarez
 MX15084,15,084,Temascalapa
 MX15089,15,089,Tenango del Aire
 MX15054,15,054,Metepec
 MX15056,15,056,Morelos
-MX15058,15,058,Nezahualcóyotl
+MX15058,15,058,Nezahualcoyotl
 MX15046,15,046,Jilotzingo
 MX15105,15,105,Tlatlaya
 MX15106,15,106,Toluca
 MX15110,15,110,Valle de Bravo
 MX15116,15,116,Zacazonapan
-MX15119,15,119,Zumpahuacán
+MX15119,15,119,Zumpahuacan
 MX15120,15,120,Zumpango
 MX15065,15,065,Otumba
 MX15035,15,035,Huehuetoca
 MX15037,15,037,Huixquilucan
 MX15038,15,038,Isidro Fabela
 MX15039,15,039,Ixtapaluca
-MX15075,15,075,San Martín de las Pirámides
+MX15075,15,075,San Martin de las Piramides
 MX15091,15,091,Teoloyucan
 MX15043,15,043,Xalatlaco
 MX15047,15,047,Jiquipilco
-MX15048,15,048,Jocotitlán
+MX15048,15,048,Jocotitlan
 MX15051,15,051,Lerma
 MX15113,15,113,Villa Guerrero
 MX15114,15,114,Villa Victoria
 MX15007,15,007,Amanalco
-MX15095,15,095,Tepotzotlán
-MX15097,15,097,Texcaltitlán
+MX15095,15,095,Tepotzotlan
+MX15097,15,097,Texcaltitlan
 MX15032,15,032,Donato Guerra
 MX15033,15,033,Ecatepec de Morelos
 MX15102,15,102,Timilpan
 MX15087,15,087,Temoaya
 MX15069,15,069,Papalotla
-MX15012,15,012,Atizapán
-MX15060,15,060,Nicolás Romero
+MX15012,15,012,Atizapan
+MX15060,15,060,Nicolas Romero
 MX15061,15,061,Nopaltepec
 MX15064,15,064,El Oro
 MX15066,15,066,Otzoloapan
@@ -776,13 +776,13 @@ MX15052,15,052,Malinalco
 MX15050,15,050,Juchitepec
 MX15101,15,101,Tianguistenco
 MX15045,15,045,Jilotepec
-MX15115,15,115,Xonacatlán
+MX15115,15,115,Xonacatlan
 MX15117,15,117,Zacualpan
-MX15124,15,124,San José del Rincón
+MX15124,15,124,San Jose del Rincon
 MX15125,15,125,Tonanitla
-MX15006,15,006,Almoloya del Río
-MX15020,15,020,Coacalco de Berriozábal
-MX15022,15,022,Cocotitlán
+MX15006,15,006,Almoloya del Rio
+MX15020,15,020,Coacalco de Berriozabal
+MX15022,15,022,Cocotitlan
 MX15027,15,027,Chapultepec
 MX15030,15,030,Chiconcuac
 MX15053,15,053,Melchor Ocampo
@@ -798,49 +798,49 @@ MX16078,16,078,Santa Ana Maya
 MX16079,16,079,Salvador Escalante
 MX16080,16,080,Senguio
 MX16081,16,081,Susupuato
-MX16082,16,082,Tacámbaro
-MX16083,16,083,Tancítaro
-MX16013,16,013,Carácuaro
+MX16082,16,082,Tacambaro
+MX16083,16,083,Tancitaro
+MX16013,16,013,Caracuaro
 MX16012,16,012,Buenavista
 MX16099,16,099,Tuzantla
-MX16106,16,106,Yurécuaro
+MX16106,16,106,Yurecuaro
 MX16107,16,107,Zacapu
 MX16108,16,108,Zamora
-MX16109,16,109,Zináparo
-MX16110,16,110,Zinapécuaro
+MX16109,16,109,Zinaparo
+MX16110,16,110,Zinapecuaro
 MX16034,16,034,Hidalgo
 MX16075,16,075,Los Reyes
 MX16076,16,076,Sahuayo
 MX16105,16,105,Vista Hermosa
-MX16024,16,024,Cherán
+MX16024,16,024,Cheran
 MX16035,16,035,La Huacana
 MX16102,16,102,Uruapan
 MX16103,16,103,Venustiano Carranza
 MX16104,16,104,Villamar
 MX16061,16,061,Ocampo
 MX16067,16,067,Penjamillo
-MX16072,16,072,Queréndaro
+MX16072,16,072,Querendaro
 MX16086,16,086,Tanhuato
 MX16087,16,087,Taretan
-MX16018,16,018,Copándaro
+MX16018,16,018,Copandaro
 MX16019,16,019,Cotija
 MX16020,16,020,Cuitzeo
 MX16021,16,021,Charapan
 MX16022,16,022,Charo
 MX16014,16,014,Coahuayana
-MX16015,16,015,Coalcomán de Vázquez Pallares
+MX16015,16,015,Coalcoman de Vazquez Pallares
 MX16016,16,016,Coeneo
 MX16017,16,017,Contepec
 MX16090,16,090,Tingambato
-MX16091,16,091,Tingüindín
+MX16091,16,091,Tinguindin
 MX16077,16,077,San Lucas
 MX16043,16,043,Jacona
-MX16044,16,044,Jiménez
+MX16044,16,044,Jimenez
 MX16045,16,045,Jiquilpan
-MX16046,16,046,Juárez
+MX16046,16,046,Juarez
 MX16047,16,047,Jungapeo
 MX16048,16,048,Lagunillas
-MX16064,16,064,Parácuaro
+MX16064,16,064,Paracuaro
 MX16065,16,065,Paracho
 MX16033,16,033,Gabriel Zamora
 MX16036,16,036,Huandacareo
@@ -849,72 +849,72 @@ MX16038,16,038,Huetamo
 MX16039,16,039,Huiramba
 MX16040,16,040,Indaparapeo
 MX16041,16,041,Irimbo
-MX16042,16,042,Ixtlán
+MX16042,16,042,Ixtlan
 MX16049,16,049,Madero
-MX16050,16,050,Maravatío
+MX16050,16,050,Maravatio
 MX16051,16,051,Marcos Castellanos
-MX16052,16,052,Lázaro Cárdenas
+MX16052,16,052,Lazaro Cardenas
 MX16053,16,053,Morelia
-MX16066,16,066,Pátzcuaro
-MX16068,16,068,Peribán
-MX16057,16,057,Nocupétaro
+MX16066,16,066,Patzcuaro
+MX16068,16,068,Periban
+MX16057,16,057,Nocupetaro
 MX16058,16,058,Nuevo Parangaricutiro
 MX16059,16,059,Nuevo Urecho
-MX16060,16,060,Numarán
-MX16062,16,062,Pajacuarán
-MX16063,16,063,Panindícuaro
+MX16060,16,060,Numaran
+MX16062,16,062,Pajacuaran
+MX16063,16,063,Panindicuaro
 MX16069,16,069,La Piedad
-MX16070,16,070,Purépero
-MX16071,16,071,Puruándiro
+MX16070,16,070,Purepero
+MX16071,16,071,Puruandiro
 MX16073,16,073,Quiroga
-MX16074,16,074,Cojumatlán de Régules
+MX16074,16,074,Cojumatlan de Regules
 MX16084,16,084,Tangamandapio
-MX16085,16,085,Tangancícuaro
-MX16088,16,088,Tarímbaro
+MX16085,16,085,Tangancicuaro
+MX16088,16,088,Tarimbaro
 MX16089,16,089,Tepalcatepec
-MX16092,16,092,Tiquicheo de Nicolás Romero
+MX16092,16,092,Tiquicheo de Nicolas Romero
 MX16093,16,093,Tlalpujahua
 MX16094,16,094,Tlazazalca
 MX16095,16,095,Tocumbo
-MX16096,16,096,Tumbiscatío
+MX16096,16,096,Tumbiscatio
 MX16097,16,097,Turicato
 MX16098,16,098,Tuxpan
 MX16100,16,100,Tzintzuntzan
 MX16101,16,101,Tzitzio
 MX16111,16,111,Ziracuaretiro
-MX16112,16,112,Zitácuaro
-MX16113,16,113,José Sixto Verduzco
+MX16112,16,112,Zitacuaro
+MX16113,16,113,Jose Sixto Verduzco
 MX16031,16,031,Epitacio Huerta
-MX16032,16,032,Erongarícuaro
+MX16032,16,032,Erongaricuaro
 MX16056,16,056,Nahuatzen
 MX16001,16,001,Acuitzio
 MX16002,16,002,Aguililla
-MX16003,16,003,Álvaro Obregón
+MX16003,16,003,Alvaro Obregon
 MX16004,16,004,Angamacutiro
 MX16005,16,005,Angangueo
-MX16006,16,006,Apatzingán
+MX16006,16,006,Apatzingan
 MX16007,16,007,Aporo
 MX16008,16,008,Aquila
 MX16009,16,009,Ario
 MX16010,16,010,Arteaga
-MX16011,16,011,Briseñas
+MX16011,16,011,Brisenas
 MX16023,16,023,Chavinda
 MX16025,16,025,Chilchota
 MX16026,16,026,Chinicuila
-MX16027,16,027,Chucándiro
+MX16027,16,027,Chucandiro
 MX16028,16,028,Churintzio
 MX16029,16,029,Churumuco
 MX16030,16,030,Ecuandureo
 MX16054,16,054,Morelos
-MX16055,16,055,Múgica
+MX16055,16,055,Mugica
 MX17004,17,004,Ayala
-MX17015,17,015,Miacatlán
+MX17015,17,015,Miacatlan
 MX17031,17,031,Zacatepec
 MX17017,17,017,Puente de Ixtla
 MX17003,17,003,Axochiapan
 MX17008,17,008,Emiliano Zapata
 MX17016,17,016,Ocuituco
-MX17022,17,022,Tetela del Volcán
+MX17022,17,022,Tetela del Volcan
 MX17036,17,036,Hueyapan
 MX17014,17,014,Mazatepec
 MX17018,17,018,Temixco
@@ -923,11 +923,11 @@ MX17028,17,028,Xochitepec
 MX17001,17,001,Amacuzac
 MX17025,17,025,Tlaquiltenango
 MX17027,17,027,Totolapan
-MX17024,17,024,Tlaltizapán de Zapata
+MX17024,17,024,Tlaltizapan de Zapata
 MX17009,17,009,Huitzilac
 MX17012,17,012,Jojutla
 MX17011,17,011,Jiutepec
-MX17020,17,020,Tepoztlán
+MX17020,17,020,Tepoztlan
 MX17002,17,002,Atlatlahucan
 MX17006,17,006,Cuautla
 MX17010,17,010,Jantetelco
@@ -936,32 +936,32 @@ MX17019,17,019,Tepalcingo
 MX17021,17,021,Tetecala
 MX17026,17,026,Tlayacapan
 MX17030,17,030,Yecapixtla
-MX17005,17,005,Coatlán del Río
+MX17005,17,005,Coatlan del Rio
 MX17007,17,007,Cuernavaca
 MX17035,17,035,Xoxocotla
 MX17032,17,032,Zacualpan de Amilpas
 MX17033,17,033,Temoac
 MX17023,17,023,Tlalnepantla
 MX17034,17,034,Coatetelco
-MX18003,18,003,Amatlán de Cañas
+MX18003,18,003,Amatlan de Canas
 MX18013,18,013,San Pedro Lagunillas
-MX18011,18,011,Ruíz
+MX18011,18,011,Ruiz
 MX18012,18,012,San Blas
 MX18005,18,005,Huajicori
-MX18006,18,006,Ixtlán del Río
+MX18006,18,006,Ixtlan del Rio
 MX18007,18,007,Jala
 MX18008,18,008,Xalisco
 MX18009,18,009,Del Nayar
 MX18010,18,010,Rosamorada
-MX18014,18,014,Santa María del Oro
+MX18014,18,014,Santa Maria del Oro
 MX18015,18,015,Santiago Ixcuintla
 MX18016,18,016,Tecuala
 MX18017,18,017,Tepic
 MX18018,18,018,Tuxpan
 MX18019,18,019,La Yesca
-MX18020,18,020,Bahía de Banderas
+MX18020,18,020,Bahia de Banderas
 MX18001,18,001,Acaponeta
-MX18002,18,002,Ahuacatlán
+MX18002,18,002,Ahuacatlan
 MX18004,18,004,Compostela
 MX19038,19,038,Montemorelos
 MX19025,19,025,General Zuazua
@@ -969,17 +969,17 @@ MX19045,19,045,Salinas Victoria
 MX19028,19,028,Higueras
 MX19051,19,051,Villaldama
 MX19015,19,015,Doctor Coss
-MX19016,19,016,Doctor González
-MX19018,19,018,García
-MX19009,19,009,Cadereyta Jiménez
+MX19016,19,016,Doctor Gonzalez
+MX19018,19,018,Garcia
+MX19009,19,009,Cadereyta Jimenez
 MX19002,19,002,Agualeguas
 MX19003,19,003,Los Aldamas
 MX19004,19,004,Allende
-MX19005,19,005,Anáhuac
+MX19005,19,005,Anahuac
 MX19021,19,021,General Escobedo
-MX19022,19,022,General Terán
-MX19023,19,023,General Treviño
-MX19012,19,012,Ciénega de Flores
+MX19022,19,022,General Teran
+MX19023,19,023,General Trevino
+MX19012,19,012,Cienega de Flores
 MX19013,19,013,China
 MX19014,19,014,Doctor Arroyo
 MX19017,19,017,Galeana
@@ -987,23 +987,23 @@ MX19001,19,001,Abasolo
 MX19024,19,024,General Zaragoza
 MX19037,19,037,Mina
 MX19039,19,039,Monterrey
-MX19040,19,040,Parás
-MX19041,19,041,Pesquería
+MX19040,19,040,Paras
+MX19041,19,041,Pesqueria
 MX19042,19,042,Los Ramones
 MX19044,19,044,Sabinas Hidalgo
-MX19046,19,046,San Nicolás de los Garza
+MX19046,19,046,San Nicolas de los Garza
 MX19048,19,048,Santa Catarina
 MX19007,19,007,Aramberri
 MX19011,19,011,Cerralvo
 MX19049,19,049,Santiago
 MX19020,19,020,General Bravo
 MX19027,19,027,Los Herreras
-MX19019,19,019,San Pedro Garza García
+MX19019,19,019,San Pedro Garza Garcia
 MX19032,19,032,Lampazos de Naranjo
 MX19033,19,033,Linares
-MX19034,19,034,Marín
+MX19034,19,034,Marin
 MX19050,19,050,Vallecillo
-MX19031,19,031,Juárez
+MX19031,19,031,Juarez
 MX19029,19,029,Hualahuises
 MX19008,19,008,Bustamante
 MX19010,19,010,El Carmen
@@ -1014,22 +1014,22 @@ MX19043,19,043,Rayones
 MX19047,19,047,Hidalgo
 MX19026,19,026,Guadalupe
 MX19006,19,006,Apodaca
-MX20481,20,481,Santiago Nuyoó
+MX20481,20,481,Santiago Nuyoo
 MX20517,20,517,Santo Domingo Tepuxtepec
 MX20524,20,524,Santo Domingo Yodohino
 MX20378,20,378,Santa Cruz Mixtepec
-MX20562,20,562,Magdalena Yodocono de Porfirio Díaz
-MX20333,20,333,San Pedro Totolápam
+MX20562,20,562,Magdalena Yodocono de Porfirio Diaz
+MX20333,20,333,San Pedro Totolapam
 MX20334,20,334,Villa de Tututepec
 MX20509,20,509,Santo Domingo de Morelos
-MX20437,20,437,Santa María Tlahuitoltepec
-MX20441,20,441,Santa María Xadani
-MX20446,20,446,Santa María Yucuhiti
-MX20447,20,447,Santa María Zacatepec
+MX20437,20,437,Santa Maria Tlahuitoltepec
+MX20441,20,441,Santa Maria Xadani
+MX20446,20,446,Santa Maria Yucuhiti
+MX20447,20,447,Santa Maria Zacatepec
 MX20469,20,469,Santiago Juxtlahuaca
-MX20511,20,511,Santo Domingo Nuxaá
+MX20511,20,511,Santo Domingo Nuxaa
 MX20513,20,513,Santo Domingo Petapa
-MX20457,20,457,Santiago Camotlán
+MX20457,20,457,Santiago Camotlan
 MX20482,20,482,Santiago Pinotepa Nacional
 MX20205,20,205,San Juan Lalana
 MX20278,20,278,San Miguel Soyaltepec
@@ -1037,199 +1037,199 @@ MX20271,20,271,San Miguel Mixtepec
 MX20329,20,329,San Pedro Teozacoalco
 MX20330,20,330,San Pedro Teutila
 MX20340,20,340,San Pedro y San Pablo Tequixtepec
-MX20170,20,170,San José Lachiguiri
+MX20170,20,170,San Jose Lachiguiri
 MX20230,20,230,San Lorenzo Victoria
-MX20570,20,570,Zimatlán de Álvarez
+MX20570,20,570,Zimatlan de Alvarez
 MX20265,20,265,San Miguel Chimalapa
 MX20036,20,036,Guevea de Humboldt
-MX20018,20,018,Concepción Buenavista
+MX20018,20,018,Concepcion Buenavista
 MX20338,20,338,Villa de Etla
-MX20344,20,344,San Sebastián Coatlán
+MX20344,20,344,San Sebastian Coatlan
 MX20366,20,366,Santa Catarina Loxicha
 MX20377,20,377,Santa Cruz Itundujia
-MX20404,20,404,Santa María Chachoápam
-MX20407,20,407,Santa María Chimalapa
-MX20005,20,005,Asunción Ixtaltepec
+MX20404,20,404,Santa Maria Chachoapam
+MX20407,20,407,Santa Maria Chimalapa
+MX20005,20,005,Asuncion Ixtaltepec
 MX20357,20,357,Santa Ana Tavela
 MX20502,20,502,Santiago Zacatepec
-MX20031,20,031,Tamazulápam del Espíritu Santo
+MX20031,20,031,Tamazulapam del Espiritu Santo
 MX20279,20,279,San Miguel Suchixtepec
-MX20401,20,401,Santa María Colotepec
+MX20401,20,401,Santa Maria Colotepec
 MX20503,20,503,Santiago Zoochila
-MX20549,20,549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca"
-MX20367,20,367,Santa Catarina Mechoacán
+MX20549,20,549,"Heroica Villa Tezoatlan de Segura y Luna, Cuna de la Independencia de Oaxaca"
+MX20367,20,367,Santa Catarina Mechoacan
 MX20379,20,379,Santa Cruz Nundaco
-MX20500,20,500,Santiago Yosondúa
-MX20057,20,057,Matías Romero Avendaño
-MX20058,20,058,Mazatlán Villa de Flores
-MX20059,20,059,Miahuatlán de Porfirio Díaz
-MX20177,20,177,San Juan Bautista Cuicatlán
+MX20500,20,500,Santiago Yosondua
+MX20057,20,057,Matias Romero Avendano
+MX20058,20,058,Mazatlan Villa de Flores
+MX20059,20,059,Miahuatlan de Porfirio Diaz
+MX20177,20,177,San Juan Bautista Cuicatlan
 MX20104,20,104,San Antonino el Alto
-MX20423,20,423,Santa María Nduayaco
+MX20423,20,423,Santa Maria Nduayaco
 MX20203,20,203,San Juan Lachigalla
 MX20204,20,204,San Juan Lajarcia
-MX20251,20,251,San Mateo Nejápam
-MX20169,20,169,San José Independencia
+MX20251,20,251,San Mateo Nejapam
+MX20169,20,169,San Jose Independencia
 MX20463,20,463,Santiago Huauclilla
 MX20467,20,467,Santiago Jamiltepec
 MX20479,20,479,Santiago Nejapilla
-MX20117,20,117,San Bartolomé Loxicha
-MX20460,20,460,Santiago Choápam
-MX20568,20,568,Zapotitlán Palmas
+MX20117,20,117,San Bartolome Loxicha
+MX20460,20,460,Santiago Choapam
+MX20568,20,568,Zapotitlan Palmas
 MX20507,20,507,Santo Domingo Armenta
 MX20515,20,515,Santo Domingo Tehuantepec
 MX20516,20,516,Santo Domingo Teojomulco
-MX20536,20,536,San Vicente Nuñú
-MX20190,20,190,San Juan Cotzocón
-MX20413,20,413,Santa María Huatulco
+MX20536,20,536,San Vicente Nunu
+MX20190,20,190,San Juan Cotzocon
+MX20413,20,413,Santa Maria Huatulco
 MX20014,20,014,Ciudad Ixtepec
 MX20015,20,015,Coatecas Altas
 MX20020,20,020,Constancia del Rosario
 MX20566,20,566,San Mateo Yucutindoo
-MX20016,20,016,Coicoyán de las Flores
+MX20016,20,016,Coicoyan de las Flores
 MX20525,20,525,Santo Domingo Zanatepec
 MX20526,20,526,Santos Reyes Nopala
-MX20052,20,052,Magdalena Tequisistlán
-MX20043,20,043,Juchitán de Zaragoza
+MX20052,20,052,Magdalena Tequisistlan
+MX20043,20,043,Juchitan de Zaragoza
 MX20079,20,079,Salina Cruz
-MX20207,20,207,San Juan Mazatlán
+MX20207,20,207,San Juan Mazatlan
 MX20332,20,332,San Pedro Topiltepec
 MX20211,20,211,San Juan Ozolotepec
 MX20212,20,212,San Juan Petlapa
 MX20213,20,213,San Juan Quiahije
-MX20179,20,179,San Juan Bautista Jayacatlán
+MX20179,20,179,San Juan Bautista Jayacatlan
 MX20293,20,293,San Pablo Etla
-MX20154,20,154,San Ildefonso Amatlán
+MX20154,20,154,San Ildefonso Amatlan
 MX20155,20,155,San Ildefonso Sola
 MX20156,20,156,San Ildefonso Villa Alta
 MX20264,20,264,San Miguel Chicahua
 MX20106,20,106,San Antonio Acutla
 MX20198,20,198,San Juan Guichicovi
 MX20365,20,365,Santa Catarina Lachatao
-MX20023,20,023,Cuilápam de Guerrero
+MX20023,20,023,Cuilapam de Guerrero
 MX20310,20,310,San Pedro Ixtlahuaca
 MX20306,20,306,San Pedro el Alto
-MX20309,20,309,San Pedro Ixcatlán
+MX20309,20,309,San Pedro Ixcatlan
 MX20324,20,324,San Pedro Pochutla
 MX20337,20,337,San Pedro y San Pablo Ayutla
-MX20351,20,351,San Simón Almolongas
-MX20002,20,002,Acatlán de Pérez Figueroa
-MX20006,20,006,Asunción Nochixtlán
-MX20008,20,008,Asunción Tlacolulita
+MX20351,20,351,San Simon Almolongas
+MX20002,20,002,Acatlan de Perez Figueroa
+MX20006,20,006,Asuncion Nochixtlan
+MX20008,20,008,Asuncion Tlacolulita
 MX20009,20,009,Ayotzintepec
 MX20010,20,010,El Barrio de la Soledad
-MX20055,20,055,Mariscala de Juárez
+MX20055,20,055,Mariscala de Juarez
 MX20021,20,021,Cosolapa
 MX20175,20,175,San Juan Bautista Atatlahuca
 MX20287,20,287,San Miguel Tulancingo
-MX20291,20,291,San Pablo Coatlán
+MX20291,20,291,San Pablo Coatlan
 MX20298,20,298,San Pablo Villa de Mitla
-MX20385,20,385,Santa Cruz Xoxocotlán
+MX20385,20,385,Santa Cruz Xoxocotlan
 MX20270,20,270,San Miguel Huautla
-MX20389,20,389,Santa Inés Yatzeche
-MX20056,20,056,Mártires de Tacubaya
-MX20035,20,035,Guelatao de Juárez
+MX20389,20,389,Santa Ines Yatzeche
+MX20056,20,056,Martires de Tacubaya
+MX20035,20,035,Guelatao de Juarez
 MX20030,20,030,El Espinal
 MX20380,20,380,Santa Cruz Papalutla
-MX20096,20,096,San Andrés Sinaxtla
-MX20097,20,097,San Andrés Solaga
+MX20096,20,096,San Andres Sinaxtla
+MX20097,20,097,San Andres Solaga
 MX20044,20,044,Loma Bonita
-MX20098,20,098,San Andrés Teotilálpam
-MX20419,20,419,Santa María Jaltianguis
+MX20098,20,098,San Andres Teotilalpam
+MX20419,20,419,Santa Maria Jaltianguis
 MX20001,20,001,Abejones
-MX20049,20,049,Magdalena Ocotlán
-MX20003,20,003,Asunción Cacalotepec
-MX20004,20,004,Asunción Cuyotepeji
-MX20007,20,007,Asunción Ocotlán
-MX20011,20,011,Calihualá
+MX20049,20,049,Magdalena Ocotlan
+MX20003,20,003,Asuncion Cacalotepec
+MX20004,20,004,Asuncion Cuyotepeji
+MX20007,20,007,Asuncion Ocotlan
+MX20011,20,011,Calihuala
 MX20012,20,012,Candelaria Loxicha
-MX20027,20,027,Chiquihuitlán de Benito Juárez
+MX20027,20,027,Chiquihuitlan de Benito Juarez
 MX20028,20,028,Heroica Ciudad de Ejutla de Crespo
-MX20013,20,013,Ciénega de Zimatlán
-MX20017,20,017,La Compañía
-MX20050,20,050,Magdalena Peñasco
-MX20019,20,019,Concepción Pápalo
+MX20013,20,013,Cienega de Zimatlan
+MX20017,20,017,La Compania
+MX20050,20,050,Magdalena Penasco
+MX20019,20,019,Concepcion Papalo
 MX20022,20,022,Cosoltepec
 MX20024,20,024,Cuyamecalco Villa de Zaragoza
 MX20025,20,025,Chahuites
 MX20026,20,026,Chalcatongo de Hidalgo
 MX20051,20,051,Magdalena Teitipac
-MX20029,20,029,Eloxochitlán de Flores Magón
-MX20034,20,034,Guadalupe de Ramírez
-MX20047,20,047,Santa Magdalena Jicotlán
+MX20029,20,029,Eloxochitlan de Flores Magon
+MX20034,20,034,Guadalupe de Ramirez
+MX20047,20,047,Santa Magdalena Jicotlan
 MX20032,20,032,Fresnillo de Trujano
 MX20053,20,053,Magdalena Tlacotepec
 MX20033,20,033,Guadalupe Etla
-MX20054,20,054,Magdalena Zahuatlán
+MX20054,20,054,Magdalena Zahuatlan
 MX20037,20,037,Mesones Hidalgo
 MX20038,20,038,Villa Hidalgo
-MX20039,20,039,Heroica Ciudad de Huajuapan de León
+MX20039,20,039,Heroica Ciudad de Huajuapan de Leon
 MX20040,20,040,Huautepec
-MX20041,20,041,Huautla de Jiménez
-MX20042,20,042,Ixtlán de Juárez
+MX20041,20,041,Huautla de Jimenez
+MX20042,20,042,Ixtlan de Juarez
 MX20045,20,045,Magdalena Apasco
 MX20046,20,046,Magdalena Jaltepec
 MX20048,20,048,Magdalena Mixtepec
-MX20060,20,060,Mixistlán de la Reforma
+MX20060,20,060,Mixistlan de la Reforma
 MX20061,20,061,Monjas
 MX20062,20,062,Natividad
 MX20063,20,063,Nazareno Etla
 MX20064,20,064,Nejapa de Madero
 MX20065,20,065,Ixpantepec Nieves
 MX20066,20,066,Santiago Niltepec
-MX20067,20,067,Oaxaca de Juárez
-MX20068,20,068,Ocotlán de Morelos
+MX20067,20,067,Oaxaca de Juarez
+MX20068,20,068,Ocotlan de Morelos
 MX20069,20,069,La Pe
 MX20070,20,070,Pinotepa de Don Luis
 MX20071,20,071,Pluma Hidalgo
-MX20099,20,099,San Andrés Tepetlapa
-MX20072,20,072,San José del Progreso
+MX20099,20,099,San Andres Tepetlapa
+MX20072,20,072,San Jose del Progreso
 MX20073,20,073,Putla Villa de Guerrero
 MX20074,20,074,Santa Catarina Quioquitani
 MX20075,20,075,Reforma de Pineda
 MX20076,20,076,La Reforma
 MX20308,20,308,San Pedro Huilotepec
 MX20077,20,077,Reyes Etla
-MX20078,20,078,Rojas de Cuauhtémoc
-MX20081,20,081,San Agustín Atenango
-MX20080,20,080,San Agustín Amatengo
-MX20084,20,084,San Agustín Etla
-MX20085,20,085,San Agustín Loxicha
-MX20082,20,082,San Agustín Chayuco
-MX20086,20,086,San Agustín Tlacotepec
-MX20083,20,083,San Agustín de las Juntas
-MX20087,20,087,San Agustín Yatareni
-MX20088,20,088,San Andrés Cabecera Nueva
-MX20089,20,089,San Andrés Dinicuiti
-MX20090,20,090,San Andrés Huaxpaltepec
-MX20091,20,091,San Andrés Huayápam
-MX20092,20,092,San Andrés Ixtlahuaca
-MX20093,20,093,San Andrés Lagunas
-MX20094,20,094,San Andrés Nuxiño
-MX20095,20,095,San Andrés Paxtlán
-MX20100,20,100,San Andrés Yaá
-MX20101,20,101,San Andrés Zabache
-MX20112,20,112,San Baltazar Chichicápam
+MX20078,20,078,Rojas de Cuauhtemoc
+MX20081,20,081,San Agustin Atenango
+MX20080,20,080,San Agustin Amatengo
+MX20084,20,084,San Agustin Etla
+MX20085,20,085,San Agustin Loxicha
+MX20082,20,082,San Agustin Chayuco
+MX20086,20,086,San Agustin Tlacotepec
+MX20083,20,083,San Agustin de las Juntas
+MX20087,20,087,San Agustin Yatareni
+MX20088,20,088,San Andres Cabecera Nueva
+MX20089,20,089,San Andres Dinicuiti
+MX20090,20,090,San Andres Huaxpaltepec
+MX20091,20,091,San Andres Huayapam
+MX20092,20,092,San Andres Ixtlahuaca
+MX20093,20,093,San Andres Lagunas
+MX20094,20,094,San Andres Nuxino
+MX20095,20,095,San Andres Paxtlan
+MX20100,20,100,San Andres Yaa
+MX20101,20,101,San Andres Zabache
+MX20112,20,112,San Baltazar Chichicapam
 MX20113,20,113,San Baltazar Loxicha
-MX20102,20,102,San Andrés Zautla
+MX20102,20,102,San Andres Zautla
 MX20131,20,131,San Dionisio Ocotepec
 MX20103,20,103,San Antonino Castillo Velasco
 MX20105,20,105,San Antonino Monte Verde
 MX20107,20,107,San Antonio de la Cal
 MX20110,20,110,San Antonio Sinicahua
 MX20480,20,480,Santiago Nundiche
-MX20109,20,109,San Antonio Nanahuatípam
+MX20109,20,109,San Antonio Nanahuatipam
 MX20108,20,108,San Antonio Huitepec
 MX20111,20,111,San Antonio Tepetlapa
 MX20493,20,493,Santiago Tillo
 MX20114,20,114,San Baltazar Yatzachi el Bajo
-MX20508,20,508,Santo Domingo Chihuitán
+MX20508,20,508,Santo Domingo Chihuitan
 MX20115,20,115,San Bartolo Coyotepec
-MX20116,20,116,San Bartolomé Ayautla
-MX20118,20,118,San Bartolomé Quialana
+MX20116,20,116,San Bartolome Ayautla
+MX20118,20,118,San Bartolome Quialana
 MX20497,20,497,Santiago Yaitepec
-MX20119,20,119,San Bartolomé Yucuañe
-MX20120,20,120,San Bartolomé Zoogocho
+MX20119,20,119,San Bartolome Yucuane
+MX20120,20,120,San Bartolome Zoogocho
 MX20121,20,121,San Bartolo Soyaltepec
 MX20521,20,521,Santo Domingo Tonaltepec
 MX20122,20,122,San Bartolo Yautepec
@@ -1240,64 +1240,64 @@ MX20125,20,125,San Carlos Yautepec
 MX20151,20,151,San Francisco Teopan
 MX20199,20,199,San Juan Ihualtepec
 MX20139,20,139,San Francisco Chapulapa
-MX20126,20,126,San Cristóbal Amatlán
-MX20127,20,127,San Cristóbal Amoltepec
-MX20128,20,128,San Cristóbal Lachirioag
-MX20129,20,129,San Cristóbal Suchixtlahuaca
+MX20126,20,126,San Cristobal Amatlan
+MX20127,20,127,San Cristobal Amoltepec
+MX20128,20,128,San Cristobal Lachirioag
+MX20129,20,129,San Cristobal Suchixtlahuaca
 MX20130,20,130,San Dionisio del Mar
-MX20132,20,132,San Dionisio Ocotlán
+MX20132,20,132,San Dionisio Ocotlan
 MX20133,20,133,San Esteban Atatlahuca
-MX20134,20,134,San Felipe Jalapa de Díaz
-MX20135,20,135,San Felipe Tejalápam
+MX20134,20,134,San Felipe Jalapa de Diaz
+MX20135,20,135,San Felipe Tejalapam
 MX20223,20,223,San Juan Yatzona
 MX20136,20,136,San Felipe Usila
-MX20137,20,137,San Francisco Cahuacuá
+MX20137,20,137,San Francisco Cahuacua
 MX20138,20,138,San Francisco Cajonos
-MX20142,20,142,San Francisco Huehuetlán
-MX20143,20,143,San Francisco Ixhuatán
-MX20145,20,145,San Francisco Lachigoló
-MX20140,20,140,San Francisco Chindúa
+MX20142,20,142,San Francisco Huehuetlan
+MX20143,20,143,San Francisco Ixhuatan
+MX20145,20,145,San Francisco Lachigolo
+MX20140,20,140,San Francisco Chindua
 MX20141,20,141,San Francisco del Mar
 MX20144,20,144,San Francisco Jaltepetongo
 MX20152,20,152,San Francisco Tlapancingo
 MX20153,20,153,San Gabriel Mixtepec
 MX20146,20,146,San Francisco Logueche
-MX20147,20,147,San Francisco Nuxaño
+MX20147,20,147,San Francisco Nuxano
 MX20148,20,148,San Francisco Ozolotepec
 MX20149,20,149,San Francisco Sola
 MX20150,20,150,San Francisco Telixtlahuaca
 MX20215,20,215,San Juan Sayultepec
-MX20216,20,216,San Juan Tabaá
+MX20216,20,216,San Juan Tabaa
 MX20217,20,217,San Juan Tamazola
 MX20157,20,157,San Jacinto Amilpas
-MX20160,20,160,San Jerónimo Silacayoapilla
-MX20161,20,161,San Jerónimo Sosola
+MX20160,20,160,San Jeronimo Silacayoapilla
+MX20161,20,161,San Jeronimo Sosola
 MX20158,20,158,San Jacinto Tlacotepec
-MX20159,20,159,San Jerónimo Coatlán
-MX20162,20,162,San Jerónimo Taviche
-MX20163,20,163,San Jerónimo Tecóatl
+MX20159,20,159,San Jeronimo Coatlan
+MX20162,20,162,San Jeronimo Taviche
+MX20163,20,163,San Jeronimo Tecoatl
 MX20164,20,164,San Jorge Nuchita
 MX20172,20,172,San Juan Achiutla
-MX20238,20,238,San Martín de los Cansecos
-MX20165,20,165,San José Ayuquila
-MX20166,20,166,San José Chiltepec
+MX20238,20,238,San Martin de los Cansecos
+MX20165,20,165,San Jose Ayuquila
+MX20166,20,166,San Jose Chiltepec
 MX20237,20,237,San Marcos Arteaga
-MX20167,20,167,San José del Peñasco
-MX20168,20,168,San José Estancia Grande
-MX20171,20,171,San José Tenango
+MX20167,20,167,San Jose del Penasco
+MX20168,20,168,San Jose Estancia Grande
+MX20171,20,171,San Jose Tenango
 MX20173,20,173,San Juan Atepec
-MX20174,20,174,Ánimas Trujano
-MX20187,20,187,San Juan Coatzóspam
+MX20174,20,174,Animas Trujano
+MX20187,20,187,San Juan Coatzospam
 MX20176,20,176,San Juan Bautista Coixtlahuaca
 MX20188,20,188,San Juan Colorado
 MX20178,20,178,San Juan Bautista Guelache
-MX20241,20,241,San Martín Lachilá
+MX20241,20,241,San Martin Lachila
 MX20180,20,180,San Juan Bautista Lo de Soto
-MX20191,20,191,San Juan Chicomezúchil
+MX20191,20,191,San Juan Chicomezuchil
 MX20181,20,181,San Juan Bautista Suchitepec
 MX20196,20,196,San Juan Evangelista Analco
 MX20182,20,182,San Juan Bautista Tlacoatzintepec
-MX20197,20,197,San Juan Guelavía
+MX20197,20,197,San Juan Guelavia
 MX20183,20,183,San Juan Bautista Tlachichilco
 MX20184,20,184,San Juan Bautista Tuxtepec
 MX20185,20,185,San Juan Cacahuatepec
@@ -1306,66 +1306,66 @@ MX20189,20,189,San Juan Comaltepec
 MX20192,20,192,San Juan Chilateca
 MX20193,20,193,San Juan del Estado
 MX20561,20,561,Yaxe
-MX20194,20,194,San Juan del Río
+MX20194,20,194,San Juan del Rio
 MX20195,20,195,San Juan Diuxi
 MX20200,20,200,San Juan Juquila Mixes
 MX20201,20,201,San Juan Juquila Vijanos
 MX20202,20,202,San Juan Lachao
 MX20218,20,218,San Juan Teita
-MX20206,20,206,San Juan de los Cués
-MX20210,20,210,San Juan Ñumí
+MX20206,20,206,San Juan de los Cues
+MX20210,20,210,San Juan Numi
 MX20214,20,214,San Juan Quiotepec
 MX20208,20,208,San Juan Mixtepec
 MX20209,20,209,San Juan Mixtepec
-MX20281,20,281,San Miguel Tecomatlán
-MX20233,20,233,San Lucas Quiaviní
+MX20281,20,281,San Miguel Tecomatlan
+MX20233,20,233,San Lucas Quiavini
 MX20219,20,219,San Juan Teitipac
 MX20220,20,220,San Juan Tepeuxila
 MX20221,20,221,San Juan Teposcolula
-MX20222,20,222,San Juan Yaeé
+MX20222,20,222,San Juan Yaee
 MX20224,20,224,San Juan Yucuita
-MX20243,20,243,San Martín Tilcajete
+MX20243,20,243,San Martin Tilcajete
 MX20225,20,225,San Lorenzo
 MX20248,20,248,San Mateo del Mar
 MX20226,20,226,San Lorenzo Albarradas
 MX20227,20,227,San Lorenzo Cacaotepec
 MX20228,20,228,San Lorenzo Cuaunecuiltitla
-MX20229,20,229,San Lorenzo Texmelúcan
-MX20231,20,231,San Lucas Camotlán
-MX20232,20,232,San Lucas Ojitlán
-MX20234,20,234,San Lucas Zoquiápam
-MX20235,20,235,San Luis Amatlán
+MX20229,20,229,San Lorenzo Texmelucan
+MX20231,20,231,San Lucas Camotlan
+MX20232,20,232,San Lucas Ojitlan
+MX20234,20,234,San Lucas Zoquiapam
+MX20235,20,235,San Luis Amatlan
 MX20236,20,236,San Marcial Ozolotepec
-MX20239,20,239,San Martín Huamelúlpam
-MX20249,20,249,San Mateo Yoloxochitlán
-MX20240,20,240,San Martín Itunyoso
-MX20242,20,242,San Martín Peras
-MX20260,20,260,San Miguel Aloápam
-MX20261,20,261,San Miguel Amatitlán
-MX20262,20,262,San Miguel Amatlán
-MX20244,20,244,San Martín Toxpalan
-MX20263,20,263,San Miguel Coatlán
+MX20239,20,239,San Martin Huamelulpam
+MX20249,20,249,San Mateo Yoloxochitlan
+MX20240,20,240,San Martin Itunyoso
+MX20242,20,242,San Martin Peras
+MX20260,20,260,San Miguel Aloapam
+MX20261,20,261,San Miguel Amatitlan
+MX20262,20,262,San Miguel Amatlan
+MX20244,20,244,San Martin Toxpalan
+MX20263,20,263,San Miguel Coatlan
 MX20266,20,266,San Miguel del Puerto
-MX20245,20,245,San Martín Zacatepec
+MX20245,20,245,San Martin Zacatepec
 MX20246,20,246,San Mateo Cajonos
-MX20267,20,267,San Miguel del Río
-MX20247,20,247,Capulálpam de Méndez
+MX20267,20,267,San Miguel del Rio
+MX20247,20,247,Capulalpam de Mendez
 MX20250,20,250,San Mateo Etlatongo
 MX20276,20,276,San Miguel Santa Flor
 MX20277,20,277,Villa Sola de Vega
-MX20252,20,252,San Mateo Peñasco
-MX20253,20,253,San Mateo Piñas
-MX20254,20,254,San Mateo Río Hondo
+MX20252,20,252,San Mateo Penasco
+MX20253,20,253,San Mateo Pinas
+MX20254,20,254,San Mateo Rio Hondo
 MX20255,20,255,San Mateo Sindihui
 MX20256,20,256,San Mateo Tlapiltepec
 MX20257,20,257,San Melchor Betaza
 MX20258,20,258,San Miguel Achiutla
-MX20259,20,259,San Miguel Ahuehuetitlán
+MX20259,20,259,San Miguel Ahuehuetitlan
 MX20268,20,268,San Miguel Ejutla
 MX20269,20,269,San Miguel el Grande
 MX20272,20,272,San Miguel Panixtlahuaca
 MX20273,20,273,San Miguel Peras
-MX20284,20,284,San Miguel Tilquiápam
+MX20284,20,284,San Miguel Tilquiapam
 MX20274,20,274,San Miguel Piedras
 MX20275,20,275,San Miguel Quetzaltepec
 MX20280,20,280,Villa Talea de Castro
@@ -1375,201 +1375,201 @@ MX20286,20,286,San Miguel Tlacotepec
 MX20295,20,295,San Pablo Huixtepec
 MX20285,20,285,San Miguel Tlacamama
 MX20288,20,288,San Miguel Yotao
-MX20289,20,289,San Nicolás
-MX20290,20,290,San Nicolás Hidalgo
+MX20289,20,289,San Nicolas
+MX20290,20,290,San Nicolas Hidalgo
 MX20292,20,292,San Pablo Cuatro Venados
 MX20294,20,294,San Pablo Huitzo
 MX20303,20,303,San Pedro Cajonos
 MX20299,20,299,San Pablo Yaganiza
 MX20296,20,296,San Pablo Macuiltianguis
 MX20297,20,297,San Pablo Tijaltepec
-MX20304,20,304,San Pedro Coxcaltepec Cántaros
+MX20304,20,304,San Pedro Coxcaltepec Cantaros
 MX20300,20,300,San Pedro Amuzgos
 MX20311,20,311,San Pedro Jaltepetongo
-MX20301,20,301,San Pedro Apóstol
+MX20301,20,301,San Pedro Apostol
 MX20321,20,321,San Pedro Nopala
 MX20302,20,302,San Pedro Atoyac
 MX20319,20,319,San Pedro Mixtepec
 MX20305,20,305,San Pedro Comitancillo
 MX20323,20,323,San Pedro Ocotepec
 MX20307,20,307,San Pedro Huamelula
-MX20312,20,312,San Pedro Jicayán
+MX20312,20,312,San Pedro Jicayan
 MX20313,20,313,San Pedro Jocotipac
 MX20314,20,314,San Pedro Juchatengo
-MX20331,20,331,San Pedro Tidaá
-MX20315,20,315,San Pedro Mártir
-MX20316,20,316,San Pedro Mártir Quiechapa
-MX20317,20,317,San Pedro Mártir Yucuxaco
+MX20331,20,331,San Pedro Tidaa
+MX20315,20,315,San Pedro Martir
+MX20316,20,316,San Pedro Martir Quiechapa
+MX20317,20,317,San Pedro Martir Yucuxaco
 MX20318,20,318,San Pedro Mixtepec
 MX20320,20,320,San Pedro Molinos
 MX20322,20,322,San Pedro Ocopetatillo
-MX20436,20,436,Santa María Texcatitlán
+MX20436,20,436,Santa Maria Texcatitlan
 MX20325,20,325,San Pedro Quiatoni
 MX20360,20,360,Santa Ana Zegache
-MX20326,20,326,San Pedro Sochiápam
+MX20326,20,326,San Pedro Sochiapam
 MX20327,20,327,San Pedro Tapanatepec
 MX20328,20,328,San Pedro Taviche
 MX20335,20,335,San Pedro Yaneri
-MX20336,20,336,San Pedro Yólox
+MX20336,20,336,San Pedro Yolox
 MX20339,20,339,San Pedro y San Pablo Teposcolula
 MX20341,20,341,San Pedro Yucunama
 MX20342,20,342,San Raymundo Jalpan
 MX20368,20,368,Santa Catarina Minas
-MX20343,20,343,San Sebastián Abasolo
-MX20346,20,346,San Sebastián Nicananduta
-MX20345,20,345,San Sebastián Ixcapa
+MX20343,20,343,San Sebastian Abasolo
+MX20346,20,346,San Sebastian Nicananduta
+MX20345,20,345,San Sebastian Ixcapa
 MX20356,20,356,Santa Ana del Valle
-MX20347,20,347,San Sebastián Río Hondo
-MX20348,20,348,San Sebastián Tecomaxtlahuaca
-MX20349,20,349,San Sebastián Teitipac
+MX20347,20,347,San Sebastian Rio Hondo
+MX20348,20,348,San Sebastian Tecomaxtlahuaca
+MX20349,20,349,San Sebastian Teitipac
 MX20359,20,359,Santa Ana Yareni
-MX20350,20,350,San Sebastián Tutla
-MX20352,20,352,San Simón Zahuatlán
+MX20350,20,350,San Sebastian Tutla
+MX20352,20,352,San Simon Zahuatlan
 MX20353,20,353,Santa Ana
 MX20354,20,354,Santa Ana Ateixtlahuaca
-MX20355,20,355,Santa Ana Cuauhtémoc
+MX20355,20,355,Santa Ana Cuauhtemoc
 MX20358,20,358,Santa Ana Tlapacoyan
-MX20361,20,361,Santa Catalina Quierí
+MX20361,20,361,Santa Catalina Quieri
 MX20362,20,362,Santa Catarina Cuixtla
 MX20363,20,363,Santa Catarina Ixtepeji
 MX20364,20,364,Santa Catarina Juquila
-MX20369,20,369,Santa Catarina Quiané
+MX20369,20,369,Santa Catarina Quiane
 MX20373,20,373,Santa Catarina Zapoquila
 MX20370,20,370,Santa Catarina Tayata
-MX20371,20,371,Santa Catarina Ticuá
-MX20372,20,372,Santa Catarina Yosonotú
+MX20371,20,371,Santa Catarina Ticua
+MX20372,20,372,Santa Catarina Yosonotu
 MX20374,20,374,Santa Cruz Acatepec
 MX20381,20,381,Santa Cruz Tacache de Mina
 MX20375,20,375,Santa Cruz Amilpas
 MX20376,20,376,Santa Cruz de Bravo
 MX20382,20,382,Santa Cruz Tacahua
 MX20383,20,383,Santa Cruz Tayata
-MX20408,20,408,Santa María del Rosario
+MX20408,20,408,Santa Maria del Rosario
 MX20387,20,387,Santa Gertrudis
 MX20384,20,384,Santa Cruz Xitla
 MX20386,20,386,Santa Cruz Zenzontepec
-MX20414,20,414,Santa María Huazolotitlán
-MX20418,20,418,Santa María Jalapa del Marqués
-MX20388,20,388,Santa Inés del Monte
-MX20390,20,390,Santa Lucía del Camino
-MX20391,20,391,Santa Lucía Miahuatlán
-MX20424,20,424,Santa María Ozolotepec
-MX20464,20,464,Santiago Ihuitlán Plumas
-MX20392,20,392,Santa Lucía Monteverde
-MX20393,20,393,Santa Lucía Ocotlán
-MX20394,20,394,Santa María Alotepec
-MX20395,20,395,Santa María Apazco
-MX20396,20,396,Santa María la Asunción
+MX20414,20,414,Santa Maria Huazolotitlan
+MX20418,20,418,Santa Maria Jalapa del Marques
+MX20388,20,388,Santa Ines del Monte
+MX20390,20,390,Santa Lucia del Camino
+MX20391,20,391,Santa Lucia Miahuatlan
+MX20424,20,424,Santa Maria Ozolotepec
+MX20464,20,464,Santiago Ihuitlan Plumas
+MX20392,20,392,Santa Lucia Monteverde
+MX20393,20,393,Santa Lucia Ocotlan
+MX20394,20,394,Santa Maria Alotepec
+MX20395,20,395,Santa Maria Apazco
+MX20396,20,396,Santa Maria la Asuncion
 MX20397,20,397,Heroica Ciudad de Tlaxiaco
 MX20398,20,398,Ayoquezco de Aldama
-MX20399,20,399,Santa María Atzompa
-MX20400,20,400,Santa María Camotlán
+MX20399,20,399,Santa Maria Atzompa
+MX20400,20,400,Santa Maria Camotlan
 MX20468,20,468,Santiago Jocotepec
 MX20470,20,470,Santiago Lachiguiri
-MX20402,20,402,Santa María Cortijo
-MX20403,20,403,Santa María Coyotepec
-MX20430,20,430,Santa María Tataltepec
-MX20405,20,405,Villa de Chilapa de Díaz
-MX20406,20,406,Santa María Chilchotla
-MX20432,20,432,Santa María Temaxcalapa
-MX20409,20,409,Santa María del Tule
-MX20410,20,410,Santa María Ecatepec
-MX20411,20,411,Santa María Guelacé
-MX20435,20,435,Santa María Tepantlali
-MX20412,20,412,Santa María Guienagati
-MX20415,20,415,Santa María Ipalapa
-MX20416,20,416,Santa María Ixcatlán
-MX20417,20,417,Santa María Jacatepec
-MX20420,20,420,Santa María Lachixío
-MX20421,20,421,Santa María Mixtequilla
-MX20422,20,422,Santa María Nativitas
-MX20425,20,425,Santa María Pápalo
-MX20426,20,426,Santa María Peñoles
-MX20427,20,427,Santa María Petapa
-MX20428,20,428,Santa María Quiegolani
+MX20402,20,402,Santa Maria Cortijo
+MX20403,20,403,Santa Maria Coyotepec
+MX20430,20,430,Santa Maria Tataltepec
+MX20405,20,405,Villa de Chilapa de Diaz
+MX20406,20,406,Santa Maria Chilchotla
+MX20432,20,432,Santa Maria Temaxcalapa
+MX20409,20,409,Santa Maria del Tule
+MX20410,20,410,Santa Maria Ecatepec
+MX20411,20,411,Santa Maria Guelace
+MX20435,20,435,Santa Maria Tepantlali
+MX20412,20,412,Santa Maria Guienagati
+MX20415,20,415,Santa Maria Ipalapa
+MX20416,20,416,Santa Maria Ixcatlan
+MX20417,20,417,Santa Maria Jacatepec
+MX20420,20,420,Santa Maria Lachixio
+MX20421,20,421,Santa Maria Mixtequilla
+MX20422,20,422,Santa Maria Nativitas
+MX20425,20,425,Santa Maria Papalo
+MX20426,20,426,Santa Maria Penoles
+MX20427,20,427,Santa Maria Petapa
+MX20428,20,428,Santa Maria Quiegolani
 MX20471,20,471,Santiago Lalopa
-MX20429,20,429,Santa María Sola
-MX20431,20,431,Santa María Tecomavaca
-MX20433,20,433,Santa María Temaxcaltepec
-MX20442,20,442,Santa María Yalina
-MX20434,20,434,Santa María Teopoxco
-MX20438,20,438,Santa María Tlalixtac
-MX20439,20,439,Santa María Tonameca
-MX20440,20,440,Santa María Totolapilla
+MX20429,20,429,Santa Maria Sola
+MX20431,20,431,Santa Maria Tecomavaca
+MX20433,20,433,Santa Maria Temaxcaltepec
+MX20442,20,442,Santa Maria Yalina
+MX20434,20,434,Santa Maria Teopoxco
+MX20438,20,438,Santa Maria Tlalixtac
+MX20439,20,439,Santa Maria Tonameca
+MX20440,20,440,Santa Maria Totolapilla
 MX20451,20,451,Santiago Apoala
-MX20443,20,443,Santa María Yavesía
+MX20443,20,443,Santa Maria Yavesia
 MX20456,20,456,Santiago Cacaloxtepec
-MX20444,20,444,Santa María Yolotepec
-MX20445,20,445,Santa María Yosoyúa
-MX20569,20,569,Santa Inés de Zaragoza
-MX20448,20,448,Santa María Zaniza
-MX20449,20,449,Santa María Zoquitlán
+MX20444,20,444,Santa Maria Yolotepec
+MX20445,20,445,Santa Maria Yosoyua
+MX20569,20,569,Santa Ines de Zaragoza
+MX20448,20,448,Santa Maria Zaniza
+MX20449,20,449,Santa Maria Zoquitlan
 MX20450,20,450,Santiago Amoltepec
-MX20452,20,452,Santiago Apóstol
-MX20462,20,462,Santiago Huajolotitlán
+MX20452,20,452,Santiago Apostol
+MX20462,20,462,Santiago Huajolotitlan
 MX20453,20,453,Santiago Astata
-MX20454,20,454,Santiago Atitlán
+MX20454,20,454,Santiago Atitlan
 MX20455,20,455,Santiago Ayuquililla
 MX20458,20,458,Santiago Comaltepec
 MX20459,20,459,Villa de Santiago Chazumba
-MX20461,20,461,Santiago del Río
+MX20461,20,461,Santiago del Rio
 MX20465,20,465,Santiago Ixcuintepec
 MX20466,20,466,Santiago Ixtayutla
 MX20472,20,472,Santiago Laollaga
 MX20473,20,473,Santiago Laxopa
 MX20474,20,474,Santiago Llano Grande
-MX20510,20,510,Santo Domingo Ixcatlán
-MX20475,20,475,Santiago Matatlán
+MX20510,20,510,Santo Domingo Ixcatlan
+MX20475,20,475,Santiago Matatlan
 MX20478,20,478,Santiago Nacaltepec
 MX20476,20,476,Santiago Miltepec
 MX20477,20,477,Santiago Minas
 MX20483,20,483,Santiago Suchilquitongo
 MX20484,20,484,Santiago Tamazola
 MX20485,20,485,Santiago Tapextla
-MX20486,20,486,Villa Tejúpam de la Unión
+MX20486,20,486,Villa Tejupam de la Union
 MX20487,20,487,Santiago Tenango
 MX20488,20,488,Santiago Tepetlapa
 MX20514,20,514,Santo Domingo Roayaga
 MX20489,20,489,Santiago Tetepec
 MX20490,20,490,Santiago Texcalcingo
-MX20491,20,491,Santiago Textitlán
+MX20491,20,491,Santiago Textitlan
 MX20492,20,492,Santiago Tilantongo
 MX20494,20,494,Santiago Tlazoyaltepec
 MX20495,20,495,Santiago Xanica
-MX20496,20,496,Santiago Xiacuí
-MX20499,20,499,Santiago Yolomécatl
-MX20504,20,504,Nuevo Zoquiápam
+MX20496,20,496,Santiago Xiacui
+MX20499,20,499,Santiago Yolomecatl
+MX20504,20,504,Nuevo Zoquiapam
 MX20501,20,501,Santiago Yucuyachi
 MX20505,20,505,Santo Domingo Ingenio
 MX20506,20,506,Santo Domingo Albarradas
 MX20512,20,512,Santo Domingo Ozolotepec
-MX20518,20,518,Santo Domingo Tlatayápam
+MX20518,20,518,Santo Domingo Tlatayapam
 MX20519,20,519,Santo Domingo Tomaltepec
-MX20520,20,520,Santo Domingo Tonalá
-MX20522,20,522,Santo Domingo Xagacía
-MX20523,20,523,Santo Domingo Yanhuitlán
-MX20529,20,529,Santos Reyes Yucuná
-MX20527,20,527,Santos Reyes Pápalo
+MX20520,20,520,Santo Domingo Tonala
+MX20522,20,522,Santo Domingo Xagacia
+MX20523,20,523,Santo Domingo Yanhuitlan
+MX20529,20,529,Santos Reyes Yucuna
+MX20527,20,527,Santos Reyes Papalo
 MX20528,20,528,Santos Reyes Tepejillo
-MX20530,20,530,Santo Tomás Jalieza
-MX20531,20,531,Santo Tomás Mazaltepec
-MX20532,20,532,Santo Tomás Ocotepec
-MX20533,20,533,Santo Tomás Tamazulapan
-MX20534,20,534,San Vicente Coatlán
+MX20530,20,530,Santo Tomas Jalieza
+MX20531,20,531,Santo Tomas Mazaltepec
+MX20532,20,532,Santo Tomas Ocotepec
+MX20533,20,533,Santo Tomas Tamazulapan
+MX20534,20,534,San Vicente Coatlan
 MX20541,20,541,Tanetze de Zaragoza
-MX20535,20,535,San Vicente Lachixío
-MX20537,20,537,Silacayoápam
+MX20535,20,535,San Vicente Lachixio
+MX20537,20,537,Silacayoapam
 MX20538,20,538,Sitio de Xitlapehua
-MX20544,20,544,Teococuilco de Marcos Pérez
+MX20544,20,544,Teococuilco de Marcos Perez
 MX20539,20,539,Soledad Etla
-MX20540,20,540,Villa de Tamazulápam del Progreso
+MX20540,20,540,Villa de Tamazulapam del Progreso
 MX20542,20,542,Taniche
-MX20543,20,543,Tataltepec de Valdés
-MX20545,20,545,Teotitlán de Flores Magón
-MX20546,20,546,Teotitlán del Valle
+MX20543,20,543,Tataltepec de Valdes
+MX20545,20,545,Teotitlan de Flores Magon
+MX20546,20,546,Teotitlan del Valle
 MX20547,20,547,Teotongo
 MX20548,20,548,Tepelmeme Villa de Morelos
-MX20550,20,550,San Jerónimo Tlacochahuaya
+MX20550,20,550,San Jeronimo Tlacochahuaya
 MX20551,20,551,Tlacolula de Matamoros
 MX20552,20,552,Tlacotepec Plumas
 MX20555,20,555,Trinidad Zaachila
@@ -1578,57 +1578,57 @@ MX20553,20,553,Tlalixtac de Cabrera
 MX20558,20,558,Valerio Trujano
 MX20554,20,554,Totontepec Villa de Morelos
 MX20559,20,559,San Juan Bautista Valle Nacional
-MX20560,20,560,Villa Díaz Ordaz
-MX20557,20,557,Unión Hidalgo
+MX20560,20,560,Villa Diaz Ordaz
+MX20557,20,557,Union Hidalgo
 MX20563,20,563,Yogana
 MX20564,20,564,Yutanduchi de Guerrero
 MX20565,20,565,Villa de Zaachila
-MX20567,20,567,Zapotitlán Lagunas
+MX20567,20,567,Zapotitlan Lagunas
 MX21086,21,086,Jalpan
 MX21088,21,088,Jonotla
-MX21120,21,120,San Antonio Cañada
+MX21120,21,120,San Antonio Canada
 MX21201,21,201,Xochiltepec
 MX21077,21,077,Hueytlalpan
-MX21177,21,177,Tlacotepec de Benito Juárez
-MX21217,21,217,Zoquitlán
+MX21177,21,177,Tlacotepec de Benito Juarez
+MX21217,21,217,Zoquitlan
 MX21113,21,113,Piaxtla
 MX21136,21,136,San Miguel Xoxtla
-MX21210,21,210,Zapotitlán de Méndez
+MX21210,21,210,Zapotitlan de Mendez
 MX21089,21,089,Jopala
 MX21131,21,131,San Juan Atzompa
 MX21018,21,018,Atexcal
 MX21054,21,054,Chignautla
 MX21213,21,213,Zihuateutla
-MX21127,21,127,San Jerónimo Xayacatlán
-MX21129,21,129,San José Miahuatlán
+MX21127,21,127,San Jeronimo Xayacatlan
+MX21129,21,129,San Jose Miahuatlan
 MX21130,21,130,San Juan Atenco
-MX21174,21,174,Teziutlán
+MX21174,21,174,Teziutlan
 MX21176,21,176,Tilapa
 MX21115,21,115,Quecholac
 MX21110,21,110,Palmar de Bravo
-MX21169,21,169,Tepexi de Rodríguez
+MX21169,21,169,Tepexi de Rodriguez
 MX21172,21,172,Tetela de Ocampo
 MX21179,21,179,Tlachichuca
 MX21124,21,124,San Gabriel Chilac
 MX21121,21,121,San Diego la Mesa Tochimiltzingo
 MX21122,21,122,San Felipe Teotlalcingo
-MX21123,21,123,San Felipe Tepatlán
+MX21123,21,123,San Felipe Tepatlan
 MX21044,21,044,Cuyoaco
 MX21082,21,082,Ixcaquixtla
-MX21085,21,085,Izúcar de Matamoros
+MX21085,21,085,Izucar de Matamoros
 MX21036,21,036,Coyomeapan
-MX21202,21,202,Xochitlán de Vicente Suárez
-MX21203,21,203,Xochitlán Todos Santos
-MX21061,21,061,Eloxochitlán
-MX21062,21,062,Epatlán
+MX21202,21,202,Xochitlan de Vicente Suarez
+MX21203,21,203,Xochitlan Todos Santos
+MX21061,21,061,Eloxochitlan
+MX21062,21,062,Epatlan
 MX21143,21,143,San Salvador el Verde
 MX21060,21,060,Domingo Arenas
 MX21104,21,104,Nopalucan
 MX21075,21,075,Hueyapan
-MX21078,21,078,Huitzilan de Serdán
+MX21078,21,078,Huitzilan de Serdan
 MX21079,21,079,Huitziltepec
 MX21072,21,072,Huehuetla
-MX21073,21,073,Huehuetlán el Chico
+MX21073,21,073,Huehuetlan el Chico
 MX21074,21,074,Huejotzingo
 MX21068,21,068,Hermenegildo Galeana
 MX21070,21,070,Huatlatlauca
@@ -1646,7 +1646,7 @@ MX21195,21,195,Vicente Guerrero
 MX21188,21,188,Tochimilco
 MX21189,21,189,Tochtepec
 MX21190,21,190,Totoltepec de Guerrero
-MX21185,21,185,Tlapanalá
+MX21185,21,185,Tlapanala
 MX21186,21,186,Tlatlauquitepec
 MX21187,21,187,Tlaxco
 MX21183,21,183,Tlaola
@@ -1655,11 +1655,11 @@ MX21142,21,142,San Salvador el Seco
 MX21140,21,140,San Pedro Cholula
 MX21141,21,141,San Pedro Yeloixtlahuaca
 MX21139,21,139,San Pablo Anicano
-MX21137,21,137,San Nicolás Buenos Aires
-MX21138,21,138,San Nicolás de los Ranchos
-MX21134,21,134,San Matías Tlalancaleca
-MX21135,21,135,San Miguel Ixitlán
-MX21126,21,126,San Jerónimo Tecuanipan
+MX21137,21,137,San Nicolas Buenos Aires
+MX21138,21,138,San Nicolas de los Ranchos
+MX21134,21,134,San Matias Tlalancaleca
+MX21135,21,135,San Miguel Ixitlan
+MX21126,21,126,San Jeronimo Tecuanipan
 MX21058,21,058,Chilchotla
 MX21059,21,059,Chinantla
 MX21055,21,055,Chila
@@ -1672,20 +1672,20 @@ MX21042,21,042,Cuayuca de Andrade
 MX21043,21,043,Cuetzalan del Progreso
 MX21045,21,045,Chalchicomula de Sesma
 MX21039,21,039,Cuautempan
-MX21040,21,040,Cuautinchán
+MX21040,21,040,Cuautinchan
 MX21041,21,041,Cuautlancingo
 MX21020,21,020,Atoyatempan
-MX21116,21,116,Quimixtlán
+MX21116,21,116,Quimixtlan
 MX21111,21,111,Pantepec
 MX21112,21,112,Petlalcingo
 MX21114,21,114,Puebla
 MX21107,21,107,Olintla
 MX21108,21,108,Oriental
-MX21109,21,109,Pahuatlán
+MX21109,21,109,Pahuatlan
 MX21102,21,102,Nealtican
-MX21103,21,103,Nicolás Bravo
+MX21103,21,103,Nicolas Bravo
 MX21106,21,106,Ocoyucan
-MX21099,21,099,Cañada Morelos
+MX21099,21,099,Canada Morelos
 MX21100,21,100,Naupan
 MX21101,21,101,Nauzontla
 MX21098,21,098,Molcaxac
@@ -1694,28 +1694,28 @@ MX21164,21,164,Tepeaca
 MX21165,21,165,Tepemaxalco
 MX21166,21,166,Tepeojuma
 MX21160,21,160,Teotlalco
-MX21161,21,161,Tepanco de López
+MX21161,21,161,Tepanco de Lopez
 MX21163,21,163,Tepatlaxco de Hidalgo
-MX21155,21,155,Tecomatlán
-MX21156,21,156,Tehuacán
-MX21159,21,159,Teopantlán
-MX21150,21,150,Huehuetlán el Grande
+MX21155,21,155,Tecomatlan
+MX21156,21,156,Tehuacan
+MX21159,21,159,Teopantlan
+MX21150,21,150,Huehuetlan el Grande
 MX21153,21,153,Tecali de Herrera
 MX21154,21,154,Tecamachalco
-MX21119,21,119,San Andrés Cholula
-MX21145,21,145,San Sebastián Tlacotepec
-MX21149,21,149,Santiago Miahuatlán
+MX21119,21,119,San Andres Cholula
+MX21145,21,145,San Sebastian Tlacotepec
+MX21149,21,149,Santiago Miahuatlan
 MX21094,21,094,Libres
-MX21096,21,096,Mazapiltepec de Juárez
-MX21128,21,128,San José Chiapa
+MX21096,21,096,Mazapiltepec de Juarez
+MX21128,21,128,San Jose Chiapa
 MX21087,21,087,Jolalpan
-MX21092,21,092,Juan N. Méndez
+MX21092,21,092,Juan N. Mendez
 MX21093,21,093,Lafragua
 MX21081,21,081,Ixcamilpa de Guerrero
-MX21083,21,083,Ixtacamaxtitlán
+MX21083,21,083,Ixtacamaxtitlan
 MX21084,21,084,Ixtepec
 MX21033,21,033,Cohuecan
-MX21035,21,035,Coxcatlán
+MX21035,21,035,Coxcatlan
 MX21037,21,037,Coyotepec
 MX21029,21,029,Caxhuacan
 MX21031,21,031,Coatzingo
@@ -1723,35 +1723,35 @@ MX21032,21,032,Cohetzala
 MX21025,21,025,Ayotoxco de Guerrero
 MX21026,21,026,Calpan
 MX21027,21,027,Caltepec
-MX21022,21,022,Atzitzihuacán
+MX21022,21,022,Atzitzihuacan
 MX21011,21,011,Albino Zertuche
-MX21065,21,065,General Felipe Ángeles
+MX21065,21,065,General Felipe Angeles
 MX21066,21,066,Guadalupe
-MX21007,21,007,Ahuatlán
+MX21007,21,007,Ahuatlan
 MX21008,21,008,Ahuazotepec
 MX21004,21,004,Acatzingo
 MX21005,21,005,Acteopan
-MX21006,21,006,Ahuacatlán
+MX21006,21,006,Ahuacatlan
 MX21001,21,001,Acajete
 MX21002,21,002,Acateno
-MX21003,21,003,Acatlán
+MX21003,21,003,Acatlan
 MX21010,21,010,Ajalpan
 MX21076,21,076,Hueytamalco
-MX21014,21,014,Amixtlán
+MX21014,21,014,Amixtlan
 MX21178,21,178,Tlacuilotepec
 MX21180,21,180,Tlahuapan
-MX21196,21,196,Xayacatlán de Bravo
+MX21196,21,196,Xayacatlan de Bravo
 MX21207,21,207,Zacapoaxtla
-MX21208,21,208,Zacatlán
+MX21208,21,208,Zacatlan
 MX21017,21,017,Atempan
 MX21019,21,019,Atlixco
-MX21173,21,173,Teteles de Ávila Castillo
+MX21173,21,173,Teteles de Avila Castillo
 MX21175,21,175,Tianguismanalco
 MX21158,21,158,Tenampulco
 MX21069,21,069,Huaquechula
-MX21209,21,209,Zapotitlán
+MX21209,21,209,Zapotitlan
 MX21157,21,157,Tehuitzingo
-MX21162,21,162,Tepango de Rodríguez
+MX21162,21,162,Tepango de Rodriguez
 MX21053,21,053,Chignahuapan
 MX21181,21,181,Tlaltenango
 MX21206,21,206,Zacapala
@@ -1763,12 +1763,12 @@ MX21024,21,024,Axutla
 MX21091,21,091,Juan Galindo
 MX21095,21,095,La Magdalena Tlatlauquitepec
 MX21117,21,117,Rafael Lara Grajales
-MX21118,21,118,Los Reyes de Juárez
+MX21118,21,118,Los Reyes de Juarez
 MX21125,21,125,San Gregorio Atzompa
-MX21133,21,133,San Martín Totoltepec
+MX21133,21,133,San Martin Totoltepec
 MX21144,21,144,San Salvador Huixcolotla
-MX21151,21,151,Santo Tomás Hueyotlipan
-MX21171,21,171,Tepeyahualco de Cuauhtémoc
+MX21151,21,151,Santo Tomas Hueyotlipan
+MX21171,21,171,Tepeyahualco de Cuauhtemoc
 MX21182,21,182,Tlanepantla
 MX21214,21,214,Zinacatepec
 MX21097,21,097,Mixtla
@@ -1784,15 +1784,15 @@ MX21080,21,080,Atlequizayan
 MX21090,21,090,Juan C. Bonilla
 MX21170,21,170,Tepeyahualco
 MX21168,21,168,Tepexco
-MX21052,21,052,Chigmecatitlán
+MX21052,21,052,Chigmecatitlan
 MX21023,21,023,Atzitzintla
-MX21204,21,204,Yaonáhuac
-MX21147,21,147,Santa Inés Ahuatempan
+MX21204,21,204,Yaonahuac
+MX21147,21,147,Santa Ines Ahuatempan
 MX21148,21,148,Santa Isabel Cholula
 MX21200,21,200,Xochiapulco
-MX21132,21,132,San Martín Texmelucan
+MX21132,21,132,San Martin Texmelucan
 MX21146,21,146,Santa Catarina Tlaltempan
-MX21198,21,198,Xicotlán
+MX21198,21,198,Xicotlan
 MX21199,21,199,Xiutetelco
 MX21105,21,105,Ocotepec
 MX21216,21,216,Zoquiapan
@@ -1802,45 +1802,45 @@ MX21192,21,192,Tuzamapan de Galeana
 MX21193,21,193,Tzicatlacoyan
 MX21009,21,009,Ahuehuetitla
 MX22012,22,012,Pedro Escobedo
-MX22013,22,013,Peñamiller
-MX22014,22,014,Querétaro
-MX22015,22,015,San Joaquín
-MX22016,22,016,San Juan del Río
+MX22013,22,013,Penamiller
+MX22014,22,014,Queretaro
+MX22015,22,015,San Joaquin
+MX22016,22,016,San Juan del Rio
 MX22017,22,017,Tequisquiapan
-MX22018,22,018,Tolimán
+MX22018,22,018,Toliman
 MX22003,22,003,Arroyo Seco
 MX22006,22,006,Corregidora
 MX22007,22,007,Ezequiel Montes
 MX22009,22,009,Jalpan de Serra
-MX22011,22,011,El Marqués
+MX22011,22,011,El Marques
 MX22001,22,001,Amealco de Bonfil
 MX22002,22,002,Pinal de Amoles
 MX22004,22,004,Cadereyta de Montes
-MX22005,22,005,Colón
+MX22005,22,005,Colon
 MX22008,22,008,Huimilpan
 MX22010,22,010,Landa de Matamoros
 MX23002,23,002,Felipe Carrillo Puerto
 MX23001,23,001,Cozumel
 MX23003,23,003,Isla Mujeres
-MX23004,23,004,Othón P. Blanco
+MX23004,23,004,Othon P. Blanco
 MX23008,23,008,Solidaridad
 MX23011,23,011,Puerto Morelos
-MX23005,23,005,Benito Juárez
-MX23006,23,006,José María Morelos
-MX23007,23,007,Lázaro Cárdenas
+MX23005,23,005,Benito Juarez
+MX23006,23,006,Jose Maria Morelos
+MX23007,23,007,Lazaro Cardenas
 MX23009,23,009,Tulum
 MX23010,23,010,Bacalar
 MX24034,24,034,San Vicente Tancuayalab
-MX24035,24,035,Soledad de Graciano Sánchez
-MX24039,24,039,Tampamolón Corona
-MX24040,24,040,Tamuín
-MX24041,24,041,Tanlajás
-MX24028,24,028,San Luis Potosí
-MX24030,24,030,San Nicolás Tolentino
+MX24035,24,035,Soledad de Graciano Sanchez
+MX24039,24,039,Tampamolon Corona
+MX24040,24,040,Tamuin
+MX24041,24,041,Tanlajas
+MX24028,24,028,San Luis Potosi
+MX24030,24,030,San Nicolas Tolentino
 MX24031,24,031,Santa Catarina
 MX24008,24,008,Cerritos
-MX24010,24,010,Ciudad del Maíz
-MX24011,24,011,Ciudad Fernández
+MX24010,24,010,Ciudad del Maiz
+MX24011,24,011,Ciudad Fernandez
 MX24013,24,013,Ciudad Valles
 MX24016,24,016,Ebano
 MX24020,24,020,Matehuala
@@ -1850,41 +1850,41 @@ MX24055,24,055,Zaragoza
 MX24015,24,015,Charcas
 MX24053,24,053,Axtla de Terrazas
 MX24036,24,036,Tamasopo
-MX24023,24,023,Rayón
+MX24023,24,023,Rayon
 MX24021,24,021,Mexquitic de Carmona
-MX24042,24,042,Tanquián de Escobedo
+MX24042,24,042,Tanquian de Escobedo
 MX24043,24,043,Tierra Nueva
-MX24029,24,029,San Martín Chalchicuautla
+MX24029,24,029,San Martin Chalchicuautla
 MX24026,24,026,San Antonio
 MX24024,24,024,Rioverde
-MX24052,24,052,Villa Juárez
-MX24017,24,017,Guadalcázar
+MX24052,24,052,Villa Juarez
+MX24017,24,017,Guadalcazar
 MX24019,24,019,Lagunillas
 MX24012,24,012,Tancanhuitz
 MX24009,24,009,Cerro de San Pedro
-MX24003,24,003,Aquismón
+MX24003,24,003,Aquismon
 MX24004,24,004,Armadillo de los Infante
 MX24002,24,002,Alaquines
 MX24037,24,037,Tamazunchale
-MX24038,24,038,Tampacán
+MX24038,24,038,Tampacan
 MX24056,24,056,Villa de Arista
 MX24058,24,058,El Naranjo
 MX24025,24,025,Salinas
 MX24027,24,027,San Ciro de Acosta
-MX24032,24,032,Santa María del Río
+MX24032,24,032,Santa Maria del Rio
 MX24051,24,051,Villa Hidalgo
 MX24048,24,048,Villa de la Paz
-MX24005,24,005,Cárdenas
+MX24005,24,005,Cardenas
 MX24006,24,006,Catorce
 MX24007,24,007,Cedral
 MX24047,24,047,Villa de Guadalupe
-MX24018,24,018,Huehuetlán
+MX24018,24,018,Huehuetlan
 MX24044,24,044,Vanegas
 MX24045,24,045,Venado
 MX24049,24,049,Villa de Ramos
 MX24050,24,050,Villa de Reyes
 MX24046,24,046,Villa de Arriaga
-MX24014,24,014,Coxcatlán
+MX24014,24,014,Coxcatlan
 MX24033,24,033,Santo Domingo
 MX24057,24,057,Matlapa
 MX24001,24,001,Ahualulco del Sonido 13
@@ -1893,111 +1893,111 @@ MX25001,25,001,Ahome
 MX25010,25,010,El Fuerte
 MX25011,25,011,Guasave
 MX25004,25,004,Concordia
-MX25005,25,005,Cosalá
+MX25005,25,005,Cosala
 MX25015,25,015,Salvador Alvarado
 MX25016,25,016,San Ignacio
 MX25009,25,009,Escuinapa
-MX25012,25,012,Mazatlán
+MX25012,25,012,Mazatlan
 MX25013,25,013,Mocorito
 MX25014,25,014,Rosario
 MX25017,25,017,Sinaloa
 MX25018,25,018,Navolato
 MX25002,25,002,Angostura
-MX25006,25,006,Culiacán
+MX25006,25,006,Culiacan
 MX25007,25,007,Choix
 MX25008,25,008,Elota
-MX26003,26,003,Álamos
+MX26003,26,003,Alamos
 MX26045,26,045,Opodepe
 MX26033,26,033,Huatabampo
 MX26004,26,004,Altar
 MX26036,26,036,Magdalena
 MX26029,26,029,Guaymas
 MX26049,26,049,Quiriego
-MX26040,26,040,Nácori Chico
+MX26040,26,040,Nacori Chico
 MX26024,26,024,Divisaderos
 MX26025,26,025,Empalme
 MX26051,26,051,Rosario
 MX26052,26,052,Sahuaripa
 MX26062,26,062,Suaqui Grande
 MX26064,26,064,Trincheras
-MX26071,26,071,Benito Juárez
-MX26016,26,016,Benjamín Hill
+MX26071,26,071,Benito Juarez
+MX26016,26,016,Benjamin Hill
 MX26011,26,011,Bacoachi
 MX26006,26,006,Arizpe
 MX26001,26,001,Aconchi
 MX26002,26,002,Agua Prieta
 MX26005,26,005,Arivechi
 MX26038,26,038,Moctezuma
-MX26041,26,041,Nacozari de García
+MX26041,26,041,Nacozari de Garcia
 MX26042,26,042,Navojoa
 MX26039,26,039,Naco
-MX26048,26,048,Puerto Peñasco
+MX26048,26,048,Puerto Penasco
 MX26010,26,010,Bacerac
-MX26012,26,012,Bácum
-MX26013,26,013,Banámichi
+MX26012,26,012,Bacum
+MX26013,26,013,Banamichi
 MX26007,26,007,Atil
-MX26014,26,014,Baviácora
+MX26014,26,014,Baviacora
 MX26015,26,015,Bavispe
 MX26017,26,017,Caborca
 MX26018,26,018,Cajeme
-MX26008,26,008,Bacadéhuachi
-MX26044,26,044,Ónavas
+MX26008,26,008,Bacadehuachi
+MX26044,26,044,Onavas
 MX26009,26,009,Bacanora
 MX26019,26,019,Cananea
 MX26023,26,023,Cumpas
 MX26026,26,026,Etchojoa
-MX26020,26,020,Carbó
+MX26020,26,020,Carbo
 MX26021,26,021,La Colorada
 MX26022,26,022,Cucurpe
 MX26027,26,027,Fronteras
 MX26028,26,028,Granados
 MX26030,26,030,Hermosillo
 MX26031,26,031,Huachinera
-MX26032,26,032,Huásabas
-MX26034,26,034,Huépac
+MX26032,26,032,Huasabas
+MX26034,26,034,Huepac
 MX26035,26,035,Imuris
-MX26037,26,037,Mazatán
+MX26037,26,037,Mazatan
 MX26043,26,043,Nogales
 MX26067,26,067,Villa Hidalgo
 MX26046,26,046,Oquitoa
 MX26047,26,047,Pitiquito
-MX26050,26,050,Rayón
-MX26053,26,053,San Felipe de Jesús
+MX26050,26,050,Rayon
+MX26053,26,053,San Felipe de Jesus
 MX26054,26,054,San Javier
-MX26055,26,055,San Luis Río Colorado
+MX26055,26,055,San Luis Rio Colorado
 MX26061,26,061,Soyopa
 MX26056,26,056,San Miguel de Horcasitas
 MX26063,26,063,Tepache
 MX26057,26,057,San Pedro de la Cueva
 MX26058,26,058,Santa Ana
 MX26059,26,059,Santa Cruz
-MX26060,26,060,Sáric
+MX26060,26,060,Saric
 MX26065,26,065,Tubutama
 MX26066,26,066,Ures
 MX26068,26,068,Villa Pesqueira
-MX26069,26,069,Yécora
-MX26070,26,070,General Plutarco Elías Calles
-MX26072,26,072,San Ignacio Río Muerto
+MX26069,26,069,Yecora
+MX26070,26,070,General Plutarco Elias Calles
+MX26072,26,072,San Ignacio Rio Muerto
 MX27012,27,012,Macuspana
-MX27014,27,014,Paraíso
+MX27014,27,014,Paraiso
 MX27015,27,015,Tacotalpa
 MX27016,27,016,Teapa
 MX27017,27,017,Tenosique
-MX27001,27,001,Balancán
-MX27002,27,002,Cárdenas
+MX27001,27,001,Balancan
+MX27002,27,002,Cardenas
 MX27003,27,003,Centla
 MX27004,27,004,Centro
 MX27005,27,005,Comalcalco
-MX27006,27,006,Cunduacán
+MX27006,27,006,Cunduacan
 MX27007,27,007,Emiliano Zapata
 MX27008,27,008,Huimanguillo
 MX27009,27,009,Jalapa
-MX27010,27,010,Jalpa de Méndez
+MX27010,27,010,Jalpa de Mendez
 MX27011,27,011,Jonuta
 MX27013,27,013,Nacajuca
-MX28043,28,043,Xicoténcatl
+MX28043,28,043,Xicotencatl
 MX28024,28,024,Mier
-MX28025,28,025,Miguel Alemán
+MX28025,28,025,Miguel Aleman
 MX28020,28,020,Mainero
 MX28008,28,008,Casas
 MX28027,28,027,Nuevo Laredo
@@ -2012,37 +2012,37 @@ MX28006,28,006,Bustamante
 MX28007,28,007,Camargo
 MX28009,28,009,Ciudad Madero
 MX28010,28,010,Cruillas
-MX28011,28,011,Gómez Farías
-MX28012,28,012,González
-MX28013,28,013,Güémez
+MX28011,28,011,Gomez Farias
+MX28012,28,012,Gonzalez
+MX28013,28,013,Guemez
 MX28014,28,014,Guerrero
-MX28015,28,015,Gustavo Díaz Ordaz
+MX28015,28,015,Gustavo Diaz Ordaz
 MX28016,28,016,Hidalgo
 MX28017,28,017,Jaumave
-MX28036,28,036,San Nicolás
+MX28036,28,036,San Nicolas
 MX28037,28,037,Soto la Marina
 MX28038,28,038,Tampico
 MX28039,28,039,Tula
-MX28018,28,018,Jiménez
+MX28018,28,018,Jimenez
 MX28019,28,019,Llera
 MX28021,28,021,El Mante
 MX28022,28,022,Matamoros
-MX28023,28,023,Méndez
+MX28023,28,023,Mendez
 MX28029,28,029,Ocampo
 MX28030,28,030,Padilla
 MX28031,28,031,Palmillas
 MX28032,28,032,Reynosa
-MX28033,28,033,Río Bravo
+MX28033,28,033,Rio Bravo
 MX28034,28,034,San Carlos
 MX28035,28,035,San Fernando
 MX28040,28,040,Valle Hermoso
 MX28041,28,041,Victoria
-MX28042,28,042,Villagrán
+MX28042,28,042,Villagran
 MX29031,29,031,Tetla de la Solidaridad
 MX29026,29,026,Santa Cruz Tlaxcala
 MX29007,29,007,El Carmen Tequexquitla
-MX29012,29,012,Españita
-MX29037,29,037,Ziltlaltépec de Trinidad Sánchez Santos
+MX29012,29,012,Espanita
+MX29037,29,037,Ziltlaltepec de Trinidad Sanchez Santos
 MX29054,29,054,San Lorenzo Axocomanitla
 MX29024,29,024,Panotla
 MX29030,29,030,Terrenate
@@ -2051,7 +2051,7 @@ MX29059,29,059,Santa Cruz Quilehtla
 MX29021,29,021,Nanacamilpa de Mariano Arista
 MX29048,29,048,La Magdalena Tlaltelulco
 MX29018,29,018,Contla de Juan Cuamatzi
-MX29047,29,047,Lázaro Cárdenas
+MX29047,29,047,Lazaro Cardenas
 MX29014,29,014,Hueyotlipan
 MX29015,29,015,Ixtacuixtla de Mariano Matamoros
 MX29060,29,060,Santa Isabel Xiloxoxtla
@@ -2063,57 +2063,57 @@ MX29009,29,009,Cuaxomulco
 MX29005,29,005,Apizaco
 MX29003,29,003,Atlangatepec
 MX29004,29,004,Atltzayanca
-MX29002,29,002,Apetatitlán de Antonio Carvajal
+MX29002,29,002,Apetatitlan de Antonio Carvajal
 MX29043,29,043,Yauhquemehcan
 MX29038,29,038,Tzompantepec
 MX29040,29,040,Xaltocan
 MX29028,29,028,Teolocholco
 MX29029,29,029,Tepeyanco
 MX29022,29,022,Acuamanala de Miguel Hidalgo
-MX29023,29,023,Natívitas
-MX29017,29,017,Mazatecochco de José María Morelos
+MX29023,29,023,Nativitas
+MX29017,29,017,Mazatecochco de Jose Maria Morelos
 MX29016,29,016,Ixtenco
 MX29055,29,055,San Lucas Tecopilco
-MX29020,29,020,Sanctórum de Lázaro Cárdenas
+MX29020,29,020,Sanctorum de Lazaro Cardenas
 MX29044,29,044,Zacatelco
-MX29041,29,041,Papalotla de Xicohténcatl
-MX29011,29,011,Muñoz de Domingo Arenas
+MX29041,29,041,Papalotla de Xicohtencatl
+MX29011,29,011,Munoz de Domingo Arenas
 MX29039,29,039,Xaloztoc
 MX29001,29,001,Amaxac de Guerrero
 MX29058,29,058,Santa Catarina Ayometla
 MX29006,29,006,Calpulalpan
 MX29046,29,046,Emiliano Zapata
 MX29025,29,025,San Pablo del Monte
-MX29019,29,019,Tepetitla de Lardizábal
-MX29035,29,035,Tocatlán
-MX29049,29,049,San Damián Texóloc
-MX29051,29,051,San Jerónimo Zacualpan
+MX29019,29,019,Tepetitla de Lardizabal
+MX29035,29,035,Tocatlan
+MX29049,29,049,San Damian Texoloc
+MX29051,29,051,San Jeronimo Zacualpan
 MX29053,29,053,San Juan Huactzinco
 MX29056,29,056,Santa Ana Nopalucan
 MX29027,29,027,Tenancingo
 MX29050,29,050,San Francisco Tetlanohcan
-MX29052,29,052,San José Teacalco
+MX29052,29,052,San Jose Teacalco
 MX29033,29,033,Tlaxcala
 MX29036,29,036,Totolac
 MX29010,29,010,Chiautempan
-MX29045,29,045,Benito Juárez
+MX29045,29,045,Benito Juarez
 MX29042,29,042,Xicohtzinco
 MX30003,30,003,Acayucan
-MX30121,30,121,Ozuluama de Mascareñas
-MX30013,30,013,Naranjos Amatlán
-MX30014,30,014,Amatlán de los Reyes
+MX30121,30,121,Ozuluama de Mascarenas
+MX30013,30,013,Naranjos Amatlan
+MX30014,30,014,Amatlan de los Reyes
 MX30045,30,045,Cosamaloapan de Carpio
 MX30051,30,051,Coyutla
-MX30053,30,053,Cuitláhuac
+MX30053,30,053,Cuitlahuac
 MX30128,30,128,Perote
 MX30126,30,126,Paso de Ovejas
-MX30046,30,046,Cosautlán de Carvajal
+MX30046,30,046,Cosautlan de Carvajal
 MX30050,30,050,Coxquihui
 MX30131,30,131,Poza Rica de Hidalgo
 MX30168,30,168,Tequila
 MX30164,30,164,Teocelo
 MX30165,30,165,Tepatlaxco
-MX30166,30,166,Tepetlán
+MX30166,30,166,Tepetlan
 MX30135,30,135,Rafael Delgado
 MX30001,30,001,Acajete
 MX30004,30,004,Actopan
@@ -2122,61 +2122,61 @@ MX30146,30,146,Sochiapa
 MX30147,30,147,Soledad Atzompa
 MX30148,30,148,Soledad de Doblado
 MX30149,30,149,Soteapan
-MX30150,30,150,Tamalín
+MX30150,30,150,Tamalin
 MX30130,30,130,Playa Vicente
 MX30127,30,127,La Perla
-MX30175,30,175,Tihuatlán
+MX30175,30,175,Tihuatlan
 MX30178,30,178,Tlacotalpan
 MX30180,30,180,Tlachichilco
 MX30181,30,181,Tlalixcoyan
 MX30182,30,182,Tlalnelhuayocan
 MX30183,30,183,Tlapacoyan
-MX30102,30,102,Martínez de la Torre
+MX30102,30,102,Martinez de la Torre
 MX30104,30,104,Mecayapan
-MX30106,30,106,Miahuatlán
-MX30069,30,069,Gutiérrez Zamora
+MX30106,30,106,Miahuatlan
+MX30069,30,069,Gutierrez Zamora
 MX30071,30,071,Huatusco
 MX30031,30,031,Carrillo Puerto
 MX30032,30,032,Catemaco
 MX30078,30,078,Ixcatepec
-MX30079,30,079,Ixhuacán de los Reyes
+MX30079,30,079,Ixhuacan de los Reyes
 MX30203,30,203,Zozocolco de Hidalgo
 MX30205,30,205,El Higo
 MX30087,30,087,Xalapa
 MX30088,30,088,Jalcomulco
-MX30089,30,089,Jáltipan
+MX30089,30,089,Jaltipan
 MX30097,30,097,Lerdo de Tejada
-MX30111,30,111,Moloacán
+MX30111,30,111,Moloacan
 MX30112,30,112,Naolinco
 MX30010,30,010,Altotonga
 MX30120,30,120,Oteapan
 MX30122,30,122,Pajapan
-MX30123,30,123,Pánuco
+MX30123,30,123,Panuco
 MX30124,30,124,Papantla
 MX30125,30,125,Paso del Macho
-MX30179,30,179,Tlacotepec de Mejía
+MX30179,30,179,Tlacotepec de Mejia
 MX30075,30,075,Ignacio de la Llave
-MX30076,30,076,Ilamatlán
-MX30108,30,108,Minatitlán
+MX30076,30,076,Ilamatlan
+MX30108,30,108,Minatitlan
 MX30011,30,011,Alvarado
-MX30012,30,012,Amatitlán
+MX30012,30,012,Amatitlan
 MX30015,30,015,Angel R. Cabada
 MX30016,30,016,La Antigua
 MX30017,30,017,Apazapan
 MX30117,30,117,Omealca
 MX30077,30,077,Isla
-MX30080,30,080,Ixhuatlán del Café
+MX30080,30,080,Ixhuatlan del Cafe
 MX30081,30,081,Ixhuatlancillo
-MX30082,30,082,Ixhuatlán del Sureste
-MX30083,30,083,Ixhuatlán de Madero
+MX30082,30,082,Ixhuatlan del Sureste
+MX30083,30,083,Ixhuatlan de Madero
 MX30084,30,084,Ixmatlahuacan
-MX30085,30,085,Ixtaczoquitlán
+MX30085,30,085,Ixtaczoquitlan
 MX30086,30,086,Jalacingo
 MX30090,30,090,Jamapa
-MX30091,30,091,Jesús Carranza
+MX30091,30,091,Jesus Carranza
 MX30092,30,092,Xico
 MX30093,30,093,Jilotepec
-MX30094,30,094,Juan Rodríguez Clara
+MX30094,30,094,Juan Rodriguez Clara
 MX30095,30,095,Juchique de Ferrer
 MX30096,30,096,Landero y Coss
 MX30109,30,109,Misantla
@@ -2184,13 +2184,13 @@ MX30110,30,110,Mixtla de Altamirano
 MX30113,30,113,Naranjal
 MX30114,30,114,Nautla
 MX30115,30,115,Nogales
-MX30163,30,163,Tenochtitlán
-MX30002,30,002,Acatlán
+MX30163,30,163,Tenochtitlan
+MX30002,30,002,Acatlan
 MX30005,30,005,Acula
 MX30006,30,006,Acultzingo
-MX30007,30,007,Camarón de Tejeda
-MX30008,30,008,Alpatláhuac
-MX30009,30,009,Alto Lucero de Gutiérrez Barrios
+MX30007,30,007,Camaron de Tejeda
+MX30008,30,008,Alpatlahuac
+MX30009,30,009,Alto Lucero de Gutierrez Barrios
 MX30018,30,018,Aquila
 MX30019,30,019,Astacinga
 MX30020,30,020,Atlahuilco
@@ -2200,24 +2200,24 @@ MX30023,30,023,Atzalan
 MX30024,30,024,Tlaltetela
 MX30025,30,025,Ayahualulco
 MX30026,30,026,Banderilla
-MX30027,30,027,Benito Juárez
-MX30028,30,028,Boca del Río
+MX30027,30,027,Benito Juarez
+MX30028,30,028,Boca del Rio
 MX30029,30,029,Calcahualco
 MX30030,30,030,Camerino Z. Mendoza
 MX30033,30,033,Cazones de Herrera
 MX30034,30,034,Cerro Azul
-MX30035,30,035,Citlaltépetl
+MX30035,30,035,Citlaltepetl
 MX30036,30,036,Coacoatzintla
-MX30037,30,037,Coahuitlán
+MX30037,30,037,Coahuitlan
 MX30038,30,038,Coatepec
 MX30039,30,039,Coatzacoalcos
 MX30040,30,040,Coatzintla
 MX30118,30,118,Orizaba
-MX30119,30,119,Otatitlán
+MX30119,30,119,Otatitlan
 MX30041,30,041,Coetzala
 MX30042,30,042,Colipa
 MX30043,30,043,Comapa
-MX30044,30,044,Córdoba
+MX30044,30,044,Cordoba
 MX30047,30,047,Coscomatepec
 MX30048,30,048,Cosoleacaque
 MX30049,30,049,Cotaxtla
@@ -2230,38 +2230,38 @@ MX30058,30,058,Chicontepec
 MX30059,30,059,Chinameca
 MX30060,30,060,Chinampa de Gorostiza
 MX30061,30,061,Las Choapas
-MX30062,30,062,Chocamán
+MX30062,30,062,Chocaman
 MX30063,30,063,Chontla
-MX30129,30,129,Platón Sánchez
-MX30132,30,132,Las Vigas de Ramírez
+MX30129,30,129,Platon Sanchez
+MX30132,30,132,Las Vigas de Ramirez
 MX30133,30,133,Pueblo Viejo
 MX30134,30,134,Puente Nacional
 MX30193,30,193,Veracruz
-MX30064,30,064,Chumatlán
+MX30064,30,064,Chumatlan
 MX30065,30,065,Emiliano Zapata
 MX30066,30,066,Espinal
 MX30067,30,067,Filomeno Mata
-MX30068,30,068,Fortín
-MX30070,30,070,Hidalgotitlán
+MX30068,30,068,Fortin
+MX30070,30,070,Hidalgotitlan
 MX30072,30,072,Huayacocotla
 MX30073,30,073,Hueyapan de Ocampo
 MX30167,30,167,Tepetzintla
-MX30169,30,169,José Azueta
+MX30169,30,169,Jose Azueta
 MX30170,30,170,Texcatepec
-MX30171,30,171,Texhuacán
+MX30171,30,171,Texhuacan
 MX30172,30,172,Texistepec
 MX30173,30,173,Tezonapa
 MX30174,30,174,Tierra Blanca
 MX30176,30,176,Tlacojalpan
 MX30177,30,177,Tlacolulan
-MX30074,30,074,Huiloapan de Cuauhtémoc
+MX30074,30,074,Huiloapan de Cuauhtemoc
 MX30195,30,195,Xoxocotla
 MX30098,30,098,Magdalena
 MX30099,30,099,Maltrata
 MX30100,30,100,Manlio Fabio Altamirano
 MX30101,30,101,Mariano Escobedo
-MX30103,30,103,Mecatlán
-MX30105,30,105,Medellín de Bravo
+MX30103,30,103,Mecatlan
+MX30105,30,105,Medellin de Bravo
 MX30184,30,184,Tlaquilpa
 MX30107,30,107,Las Minas
 MX30116,30,116,Oluta
@@ -2270,13 +2270,13 @@ MX30137,30,137,Los Reyes
 MX30196,30,196,Yanga
 MX30197,30,197,Yecuatla
 MX30198,30,198,Zacualpan
-MX30138,30,138,Río Blanco
+MX30138,30,138,Rio Blanco
 MX30139,30,139,Saltabarranca
-MX30140,30,140,San Andrés Tenejapan
-MX30141,30,141,San Andrés Tuxtla
+MX30140,30,140,San Andres Tenejapan
+MX30141,30,141,San Andres Tuxtla
 MX30142,30,142,San Juan Evangelista
 MX30143,30,143,Santiago Tuxtla
-MX30144,30,144,Sayula de Alemán
+MX30144,30,144,Sayula de Aleman
 MX30151,30,151,Tamiahua
 MX30152,30,152,Tampico Alto
 MX30153,30,153,Tancoco
@@ -2286,36 +2286,36 @@ MX30156,30,156,Tatatila
 MX30157,30,157,Castillo de Teayo
 MX30158,30,158,Tecolutla
 MX30159,30,159,Tehuipango
-MX30160,30,160,Álamo Temapache
+MX30160,30,160,Alamo Temapache
 MX30161,30,161,Tempoal
 MX30162,30,162,Tenampa
 MX30185,30,185,Tlilapan
-MX30186,30,186,Tomatlán
-MX30187,30,187,Tonayán
+MX30186,30,186,Tomatlan
+MX30187,30,187,Tonayan
 MX30188,30,188,Totutla
 MX30189,30,189,Tuxpan
 MX30190,30,190,Tuxtilla
-MX30191,30,191,Ursulo Galván
+MX30191,30,191,Ursulo Galvan
 MX30192,30,192,Vega de Alatorre
 MX30194,30,194,Villa Aldama
 MX30199,30,199,Zaragoza
 MX30200,30,200,Zentla
 MX30201,30,201,Zongolica
-MX30202,30,202,Zontecomatlán de López y Fuentes
+MX30202,30,202,Zontecomatlan de Lopez y Fuentes
 MX30204,30,204,Agua Dulce
-MX30206,30,206,Nanchital de Lázaro Cárdenas del Río
+MX30206,30,206,Nanchital de Lazaro Cardenas del Rio
 MX30207,30,207,Tres Valles
 MX30208,30,208,Carlos A. Carrillo
-MX30209,30,209,Tatahuicapan de Juárez
+MX30209,30,209,Tatahuicapan de Juarez
 MX30210,30,210,Uxpanapa
 MX30211,30,211,San Rafael
 MX30212,30,212,Santiago Sochiapan
-MX31100,31,100,Ucú
+MX31100,31,100,Ucu
 MX31032,31,032,Espita
-MX31036,31,036,Homún
+MX31036,31,036,Homun
 MX31058,31,058,Peto
-MX31047,31,047,Maní
-MX31048,31,048,Maxcanú
+MX31047,31,047,Mani
+MX31048,31,048,Maxcanu
 MX31052,31,052,Motul
 MX31076,31,076,Tecoh
 MX31098,31,098,Tzucacab
@@ -2324,153 +2324,153 @@ MX31028,31,028,Dzilam de Bravo
 MX31002,31,002,Acanceh
 MX31006,31,006,Buctzotz
 MX31056,31,056,Oxkutzcab
-MX31057,31,057,Panabá
+MX31057,31,057,Panaba
 MX31093,31,093,Tixkokob
 MX31092,31,092,Tixcacalcupul
 MX31084,31,084,Temax
 MX31079,31,079,Tekax
 MX31089,31,089,Ticul
 MX31059,31,059,Progreso
-MX31061,31,061,Río Lagartos
+MX31061,31,061,Rio Lagartos
 MX31065,31,065,San Felipe
-MX31067,31,067,Seyé
-MX31101,31,101,Umán
+MX31067,31,067,Seye
+MX31101,31,101,Uman
 MX31102,31,102,Valladolid
 MX31069,31,069,Sotuta
 MX31071,31,071,Sudzal
 MX31017,31,017,Chankom
 MX31018,31,018,Chapab
 MX31008,31,008,Calotmul
-MX31011,31,011,Celestún
-MX31030,31,030,Dzitás
-MX31021,31,021,Chichimilá
-MX31034,31,034,Hocabá
-MX31038,31,038,Hunucmá
-MX31041,31,041,Kanasín
+MX31011,31,011,Celestun
+MX31030,31,030,Dzitas
+MX31021,31,021,Chichimila
+MX31034,31,034,Hocaba
+MX31038,31,038,Hunucma
+MX31041,31,041,Kanasin
 MX31042,31,042,Kantunil
 MX31062,31,062,Sacalum
 MX31075,31,075,Teabo
 MX31090,31,090,Timucuy
 MX31081,31,081,Tekom
-MX31029,31,029,Dzilam González
+MX31029,31,029,Dzilam Gonzalez
 MX31014,31,014,Cuncunul
-MX31001,31,001,Abalá
+MX31001,31,001,Abala
 MX31003,31,003,Akil
 MX31004,31,004,Baca
-MX31005,31,005,Bokobá
-MX31016,31,016,Chacsinkín
-MX31007,31,007,Cacalchén
+MX31005,31,005,Bokoba
+MX31016,31,016,Chacsinkin
+MX31007,31,007,Cacalchen
 MX31009,31,009,Cansahcab
 MX31010,31,010,Cantamayec
 MX31012,31,012,Cenotillo
 MX31013,31,013,Conkal
-MX31015,31,015,Cuzamá
+MX31015,31,015,Cuzama
 MX31020,31,020,Chicxulub Pueblo
 MX31022,31,022,Chikindzonot
-MX31023,31,023,Chocholá
+MX31023,31,023,Chochola
 MX31024,31,024,Chumayel
-MX31049,31,049,Mayapán
-MX31050,31,050,Mérida
+MX31049,31,049,Mayapan
+MX31050,31,050,Merida
 MX31025,31,025,Dzan
 MX31026,31,026,Dzemul
-MX31027,31,027,Dzidzantún
+MX31027,31,027,Dzidzantun
 MX31031,31,031,Dzoncauich
-MX31033,31,033,Halachó
-MX31035,31,035,Hoctún
-MX31037,31,037,Huhí
+MX31033,31,033,Halacho
+MX31035,31,035,Hoctun
+MX31037,31,037,Huhi
 MX31039,31,039,Ixil
 MX31040,31,040,Izamal
-MX31055,31,055,Opichén
+MX31055,31,055,Opichen
 MX31043,31,043,Kaua
 MX31044,31,044,Kinchil
-MX31045,31,045,Kopomá
+MX31045,31,045,Kopoma
 MX31046,31,046,Mama
-MX31051,31,051,Mocochá
+MX31051,31,051,Mococha
 MX31053,31,053,Muna
 MX31054,31,054,Muxupip
 MX31060,31,060,Quintana Roo
 MX31064,31,064,Sanahcat
 MX31063,31,063,Samahil
-MX31085,31,085,Temozón
+MX31085,31,085,Temozon
 MX31066,31,066,Santa Elena
 MX31103,31,103,Xocchel
-MX31104,31,104,Yaxcabá
+MX31104,31,104,Yaxcaba
 MX31083,31,083,Telchac Puerto
-MX31068,31,068,Sinanché
-MX31070,31,070,Sucilá
+MX31068,31,068,Sinanche
+MX31070,31,070,Sucila
 MX31072,31,072,Suma
-MX31073,31,073,Tahdziú
+MX31073,31,073,Tahdziu
 MX31074,31,074,Tahmek
 MX31077,31,077,Tekal de Venegas
-MX31078,31,078,Tekantó
+MX31078,31,078,Tekanto
 MX31080,31,080,Tekit
 MX31082,31,082,Telchac Pueblo
-MX31086,31,086,Tepakán
+MX31086,31,086,Tepakan
 MX31087,31,087,Tetiz
 MX31088,31,088,Teya
 MX31091,31,091,Tinum
 MX31094,31,094,Tixmehuac
-MX31095,31,095,Tixpéhual
-MX31096,31,096,Tizimín
-MX31097,31,097,Tunkás
+MX31095,31,095,Tixpehual
+MX31096,31,096,Tizimin
+MX31097,31,097,Tunkas
 MX31099,31,099,Uayma
 MX31105,31,105,Yaxkukul
-MX31106,31,106,Yobaín
+MX31106,31,106,Yobain
 MX32057,32,057,Trancoso
 MX32017,32,017,Guadalupe
 MX32019,32,019,Jalpa
 MX32020,32,020,Jerez
-MX32021,32,021,Jiménez del Teul
-MX32015,32,015,El Plateado de Joaquín Amaro
+MX32021,32,021,Jimenez del Teul
+MX32015,32,015,El Plateado de Joaquin Amaro
 MX32026,32,026,Mazapil
 MX32027,32,027,Melchor Ocampo
 MX32028,32,028,Mezquital del Oro
 MX32029,32,029,Miguel Auza
 MX32038,32,038,Pinos
-MX32039,32,039,Río Grande
+MX32039,32,039,Rio Grande
 MX32003,32,003,Atolinga
 MX32022,32,022,Juan Aldama
-MX32048,32,048,Tlaltenango de Sánchez Román
+MX32048,32,048,Tlaltenango de Sanchez Roman
 MX32042,32,042,Sombrerete
 MX32044,32,044,Tabasco
-MX32049,32,049,Valparaíso
+MX32049,32,049,Valparaiso
 MX32050,32,050,Vetagrande
 MX32051,32,051,Villa de Cos
 MX32030,32,030,Momax
 MX32032,32,032,Morelos
 MX32056,32,056,Zacatecas
-MX32007,32,007,Concepción del Oro
-MX32008,32,008,Cuauhtémoc
+MX32007,32,007,Concepcion del Oro
+MX32008,32,008,Cuauhtemoc
 MX32009,32,009,Chalchihuites
-MX32004,32,004,Benito Juárez
+MX32004,32,004,Benito Juarez
 MX32054,32,054,Villa Hidalgo
 MX32024,32,024,Loreto
 MX32031,32,031,Monte Escobedo
-MX32037,32,037,Pánuco
+MX32037,32,037,Panuco
 MX32040,32,040,Sain Alto
 MX32018,32,018,Huanusco
 MX32023,32,023,Juchipila
 MX32025,32,025,Luis Moya
 MX32033,32,033,Moyahua de Estrada
 MX32010,32,010,Fresnillo
-MX32011,32,011,Trinidad García de la Cadena
+MX32011,32,011,Trinidad Garcia de la Cadena
 MX32012,32,012,Genaro Codina
 MX32005,32,005,Calera
-MX32052,32,052,Villa García
+MX32052,32,052,Villa Garcia
 MX32013,32,013,General Enrique Estrada
 MX32041,32,041,El Salvador
-MX32058,32,058,Santa María de la Paz
+MX32058,32,058,Santa Maria de la Paz
 MX32055,32,055,Villanueva
-MX32053,32,053,Villa González Ortega
+MX32053,32,053,Villa Gonzalez Ortega
 MX32001,32,001,Apozol
 MX32002,32,002,Apulco
-MX32016,32,016,General Pánfilo Natera
-MX32034,32,034,Nochistlán de Mejía
-MX32006,32,006,Cañitas de Felipe Pescador
-MX32035,32,035,Noria de Ángeles
+MX32016,32,016,General Panfilo Natera
+MX32034,32,034,Nochistlan de Mejia
+MX32006,32,006,Canitas de Felipe Pescador
+MX32035,32,035,Noria de Angeles
 MX32036,32,036,Ojocaliente
-MX32014,32,014,General Francisco R. Murguía
-MX32043,32,043,Susticacán
-MX32045,32,045,Tepechitlán
+MX32014,32,014,General Francisco R. Murguia
+MX32043,32,043,Susticacan
+MX32045,32,045,Tepechitlan
 MX32046,32,046,Tepetongo
-MX32047,32,047,Teúl de González Ortega
+MX32047,32,047,Teul de Gonzalez Ortega

@@ -20,11 +20,12 @@ for feature in municipalities['features']:
 class data_visualizer:
   def __init__(self, df):
     self.convert_to_geo(df)
+    self.display_months = False
 
   def convert_to_geo(self, data):
+    #make date useable with no month or year
     data['ONSET_MONTH'] = data['ONSET_MONTH'].fillna(1)
     data.loc[:, 'ONSET_DAY'] = data['ONSET_DAY'].fillna(1)
-
     date_data = data[['ONSET_YEAR', 'ONSET_MONTH', 'ONSET_DAY']].copy()
     date_data = date_data.rename(columns={
         'ONSET_YEAR': 'year',
@@ -46,9 +47,9 @@ class data_visualizer:
               color='cases',
               #color_continuous_scale="Reds",
               scope="north america",
-              hover_data={'location': False, 'Name': True, 'cases': True},
+              hover_data={'location': False, 'name': True, 'cases': True},
               labels={'cases':'cases',},
-              #animation_frame='date',
+              animation_frame='year',
               range_color=[self.df['cases'].min(), self.df['cases'].max()],
               )
 
