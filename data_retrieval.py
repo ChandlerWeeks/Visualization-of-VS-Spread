@@ -76,7 +76,7 @@ def create_useable_us_dataframe(data):
 
 def aggregate_cases(data):
   data['cases'] = 1
-  aggregated_data = data.groupby(['location', 'year', 'month']).sum().reset_index()
+  aggregated_data = data.groupby(['name', 'location', 'year', 'month']).sum().reset_index()
   aggregated_data = aggregated_data.sort_values(by=['year', 'month'])
   aggregated_data = aggregated_data.dropna(subset=['location'])
   
@@ -90,5 +90,4 @@ def get_locations(data):
   data = pd.concat([us_data, mx_data])
   aggregated_cases = aggregate_cases(data)
 
-  print(aggregated_cases)
   return aggregated_cases

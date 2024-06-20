@@ -3,18 +3,20 @@ import pandas as pd
 from urllib.request import urlopen
 import json
 from data_retrieval import *
+from dash import Dash, dcc, html
+
 
 pd.options.mode.chained_assignment = None
 
-#TODO: Convert the graph to a plotly go graph, add month filter and reenable the years filter, then publish
-#TODO: https://plotly.com/python/choropleth-maps/
+app = Dash(__name__)
+
+colors = {"background": "#212A31", "text": "#D3D9D4", 'primary': '#2E3944', 'secondary': '#124E66', 'tertiary': '#748D92'}
 
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
   geo = json.load(response)
 
 with open('./data/municipalities.geojson', 'r', encoding='utf-8') as f:
   municipalities = json.load(f)
-
 
 for feature in municipalities['features']:
   geo['features'].append(feature)
@@ -51,57 +53,74 @@ class data_visualizer:
       hover_data={'location': False, 'name': True, 'cases': True},
       labels={'cases':'cases',},
       range_color=[self.df['cases'].min(), self.df['cases'].max()],
+      width=1280,
+      height=800,
     )
-  
-    # Generate a dropdown item for each month
-    months = ["January", "February", "March", "April", "May", "June", 
-          "July", "August", "September", "October", "November", "December"]
-    dropdown_items = []
-    for i, month in enumerate(months):
-      dropdown_items.append(
-        dict(
-          args=[{"transforms[0].value": i + 1}],  # The month number
-          label=month,
-          method="update"
-        )
+
+    fig.update_layout(
+      plot_bgcolor=colors['background'],
+      paper_bgcolor=colors['background'],
+      font_color=colors['text'],
+      margin=dict(r=20, l=20, t=20, b=20),
+    )
+
+    fig.update_geos(
+      showland=True,
+      bgcolor=colors['background'],
+    )
+
+    app.layout = html.Div(id='html', className='parent', children=[
+      html.H1(children='Vesicular Stomatitis Cases', style={
+        'textAlign': 'center',
+        'color': colors['text'],
+        'margin-top': '0px',
+      }),
+    
+      html.Div(children='Cases of Vesicular Stomatitis Within North America as a EWS', style={
+        'textAlign': 'center',
+        'color': colors['text']
+      }),
+    
+      html.Div(style={'width': '80%', 'margin': 'auto'}, children=[
+        html.Div(style={'display': 'flex', 'justifyContent': 'flex-start'}, children=[
+          dcc.Checklist(
+            id='my-checklist',
+            options=[
+              {'label': 'Order by Month?', 'value': 'Yes'},
+            ],
+            value=['Yes'],
+            style={'color': colors['text']}
+          ),
+        ]),
+      
+        html.Div(style={'display': 'flex', 'justifyContent': 'flex-start'}, children=[
+          dcc.Dropdown(
+            id='my-dropdown',
+            options=[
+              {'label': 'January', 'value': 'OPT1'},
+              {'label': 'February', 'value': 'OPT2'}
+            ],
+            value='OPT1'
+          )
+        ])
+      ]),
+    
+      html.Div(
+        dcc.Graph(
+          id='choropleth',
+          figure=fig
+        ), style={'width': '80%', 'height': '80%', 'margin': 'auto'}
+      ),
+    
+      html.Div(
+        dcc.Slider(
+          id='my-slider',
+          min=0,
+          max=20,
+          step=0.5,
+          value=10,
+        ), style={'width': '80%', 'margin': 'auto'}
       )
-  
-    # Add a dropdown menu to the layout
-    fig.update_layout(
-      updatemenus=[
-        dict(
-          buttons=dropdown_items,
-          direction="down",
-          pad={"r": 10, "t": 10},
-          showactive=True,
-          x=0.1,
-          xanchor="left",
-          y=1.1,
-          yanchor="top"
-        )
-      ],
-      annotations=[
-        dict(
-          text="Select Month:",
-          showarrow=False,
-          x=0.025,  # Adjust these values to position the label
-          y=1.083,  # Adjust these values to position the label
-          xref="paper",
-          yref="paper"
-        )
-      ]
-    )
-  
-    # Add a filter transform to the data
-    fig.update_layout(
-      transforms=[
-        dict(
-          type='filter',
-          target='date',  # The column to filter
-          operation='month',  # Extract the month from the date
-          value=1  # The initial month to display (January)
-        )
-      ]
-    )
-  
-    fig.show()
+    ])
+    
+    app.run(debug=True)
