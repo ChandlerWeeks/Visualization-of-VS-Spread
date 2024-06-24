@@ -3,29 +3,32 @@ import pandas as pd
 from urllib.request import urlopen
 import json
 from data_retrieval import *
-from dash import Dash, dcc, html
+from dash import Dash, dcc, html, Input, Output, callback
 
 
 pd.options.mode.chained_assignment = None
 
 app = Dash(__name__)
 
+#colors for css styling
 colors = {"background": "#212A31", "text": "#D3D9D4", 'primary': '#2E3944', 'secondary': '#124E66', 'tertiary': '#748D92'}
 
+#Get geoJSON data
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
   geo = json.load(response)
-
 with open('./data/municipalities.geojson', 'r', encoding='utf-8') as f:
   municipalities = json.load(f)
-
 for feature in municipalities['features']:
   geo['features'].append(feature)
 
+#TODO: add extra visualization, probably a bar graph with selection regions during selected timeframe
+#TODO: when doing this, be sure to default to using the lasso tool for selection, fill all cities with 0 cases in an instance. 
 class data_visualizer:
   def __init__(self, df):
     self.convert_to_geo(df)
     self.display_months = False
 
+  # setup some data through pandas
   def convert_to_geo(self, data):
     #make date useable with no month or year
     data['ONSET_MONTH'] = data['ONSET_MONTH'].fillna(1)
@@ -43,6 +46,11 @@ class data_visualizer:
 
     self.df = get_locations(data)
 
+  def get_unique_years(self):
+    values = list(set(int(period.year) for period in self.df['year']))
+    values.sort()
+    return values
+
   def plot_data(self):
     fig = px.choropleth(
       self.df,
@@ -52,8 +60,8 @@ class data_visualizer:
       scope="north america",
       hover_data={'location': False, 'name': True, 'cases': True},
       labels={'cases':'cases',},
-      range_color=[self.df['cases'].min(), self.df['cases'].max()],
-      width=1280,
+      #color_continuous_scale='reds', #TODO: experiment with color,
+      width=1400,
       height=800,
     )
 
@@ -69,38 +77,42 @@ class data_visualizer:
       bgcolor=colors['background'],
     )
 
+    unique_years = self.get_unique_years()
+
     app.layout = html.Div(id='html', className='parent', children=[
       html.H1(children='Vesicular Stomatitis Cases', style={
         'textAlign': 'center',
         'color': colors['text'],
+        'padding-top': '12px',
         'margin-top': '0px',
+        'font-size': '2.5em'
       }),
     
       html.Div(children='Cases of Vesicular Stomatitis Within North America as a EWS', style={
         'textAlign': 'center',
-        'color': colors['text']
+        'color': colors['text'],
+        'font-size': '1.25em'
       }),
     
       html.Div(style={'width': '80%', 'margin': 'auto'}, children=[
-        html.Div(style={'display': 'flex', 'justifyContent': 'flex-start'}, children=[
-          dcc.Checklist(
-            id='my-checklist',
-            options=[
-              {'label': 'Order by Month?', 'value': 'Yes'},
-            ],
-            value=['Yes'],
-            style={'color': colors['text']}
-          ),
-        ]),
-      
-        html.Div(style={'display': 'flex', 'justifyContent': 'flex-start'}, children=[
+        html.Div(className='dropdown', children=[
           dcc.Dropdown(
             id='my-dropdown',
             options=[
-              {'label': 'January', 'value': 'OPT1'},
-              {'label': 'February', 'value': 'OPT2'}
+              {'label': 'January', 'value': '1'},
+              {'label': 'February', 'value': '2'},
+              {'label': 'March', 'value': '3'},
+              {'label': 'April', 'value': '4'},
+              {'label': 'May', 'value': '5'},
+              {'label': 'June', 'value': '6'},
+              {'label': 'July', 'value': '7'},
+              {'label': 'August', 'value': '8'},
+              {'label': 'September', 'value': '9'},
+              {'label': 'October', 'value': '10'},
+              {'label': 'November', 'value': '11'},
+              {'label': 'December', 'value': '12'},
             ],
-            value='OPT1'
+            multi=True,
           )
         ])
       ]),
@@ -109,18 +121,33 @@ class data_visualizer:
         dcc.Graph(
           id='choropleth',
           figure=fig
-        ), style={'width': '80%', 'height': '80%', 'margin': 'auto'}
+        ), style={'width': '75%', 'height': '75%', 'margin': 'auto', 'margin-top': '16px'}
       ),
     
       html.Div(
         dcc.Slider(
           id='my-slider',
-          min=0,
-          max=20,
-          step=0.5,
-          value=10,
-        ), style={'width': '80%', 'margin': 'auto'}
+          min=int(unique_years[0]),
+          max=int(unique_years[-1]),
+          step=1,
+          value=int(unique_years[0]),
+          marks = {i: {'label': str(i), 'style': {'color': 'text-color', 'font-size': 14}} for i in range(1910, 2021, 10)},
+          tooltip={
+            'always_visible': True,
+            'style': {'color': "LightSteelBlue", 'fontSize': '24px'}
+          }
+        ), className='year-slider'
       )
     ])
-    
+
+    """
+    #TODO: add callback to adjust the year and month of the graph based on the dropdown and slider
+    @callback(
+      Output('choropleth', 'figure'),
+      [Input('my-dropdown', 'value'), Input('my-slider', 'value')]
+    )
+
+    def update_graph(selected_months, selected_year):
+      pass
+    """
     app.run(debug=True)

@@ -1,12 +1,13 @@
 :root {
-  --background-color: #212A31;
-  --text-color: #D3D9D4;
-  --primary-color: #2E3944;
-  --secondary-color: #124E66;
-  --tertiary-color: #748D92;
+  --background-color: #212a31;
+  --text-color: #d3d9d4;
+  --primary-color: #2e3944;
+  --secondary-color: #124e66;
+  --tertiary-color: #748d92;
 }
 
-html, body {
+html,
+body {
   margin: 0px;
   padding: 0px;
   width: 100%;
@@ -26,4 +27,20 @@ body {
   background-color: var(--background-color);
   width: 100vw;
   height: 100vh;
+}
+
+.dropdown {
+  width: 200px;
+}
+
+.year-slider {
+  position: fixed;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 85%;
+}
+
+.year-slider .rc-slider-track {
+  background-color: var(--secondary-color);
 }
