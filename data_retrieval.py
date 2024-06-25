@@ -7,6 +7,7 @@ class data_reciever:
     self.file = './data/vsv_county_noPII.csv'
     self.recieve_data()
 
+
   def recieve_data(self):
     self.data = pd.read_csv(self.file)
     
@@ -15,9 +16,11 @@ def get_fips():
   fips = pd.read_csv('./data/state_and_county_fips_master.csv', dtype={'fips': str})
   return fips
 
+
 def get_municipality_ids():
   municipalities = pd.read_csv('./data/mexico.csv')
   return municipalities
+
 
 def create_useable_mx_dataframe(data):
   municipalities = get_municipality_ids()
@@ -32,7 +35,7 @@ def create_useable_mx_dataframe(data):
   data['date'] = pd.to_datetime(data['date'])
   data['year'] = data['date'].dt.to_period('Y')
   month_dict = {i: calendar.month_name[i] for i in range(1, 13)}
-  data['month'] = data['date'].dt.month.map(month_dict)
+  data['month'] = data['date'].dt.month
 
   new_data = pd.DataFrame({
     'location': data['location'],
@@ -47,6 +50,7 @@ def create_useable_mx_dataframe(data):
 
   return new_data
 
+
 def create_useable_us_dataframe(data):
   fips = get_fips()
   data['location'] = None  # Initialize a new column 'fips' with Null values
@@ -60,7 +64,7 @@ def create_useable_us_dataframe(data):
   data['date'] = pd.to_datetime(data['date'])
   data['year'] = data['date'].dt.to_period('Y')
   month_dict = {i: calendar.month_name[i] for i in range(1, 13)}
-  data['month'] = data['date'].dt.month.map(month_dict)
+  data['month'] = data['date'].dt.month
 
   new_data = pd.DataFrame({
     'location': data['location'],
@@ -74,6 +78,7 @@ def create_useable_us_dataframe(data):
 
   return new_data
 
+
 def aggregate_cases(data):
   data['cases'] = 1
   aggregated_data = data.groupby(['name', 'location', 'year', 'month']).sum().reset_index()
@@ -81,6 +86,7 @@ def aggregate_cases(data):
   aggregated_data = aggregated_data.dropna(subset=['location'])
   
   return aggregated_data
+
 
 # merges US counties and Mexican municipalities
 def get_locations(data):
@@ -91,3 +97,17 @@ def get_locations(data):
   aggregated_cases = aggregate_cases(data)
 
   return aggregated_cases
+
+
+def filter_by_year(data, year):
+  data = data[data['year'] == year]
+  return data
+
+
+#TODO: merge cases that are in seperate months for this range
+def filter_by_months(data, year, months):
+  combined_data = pd.DataFrame()
+  for month in months:
+    filtered_data_month = data[(data['year'] == year) & (data['month'] == int(month))]
+    combined_data = pd.concat([combined_data, filtered_data_month], ignore_index=True)
+  return combined_data

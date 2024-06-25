@@ -29,10 +29,6 @@ body {
   height: 100vh;
 }
 
-.dropdown {
-  width: 200px;
-}
-
 .year-slider {
   position: fixed;
   bottom: 25px;
@@ -43,4 +39,12 @@ body {
 
 .year-slider .rc-slider-track {
   background-color: var(--secondary-color);
+}
+
+.dropdown-box{
+  position: fixed;
+  top: 25px;
+  left: 25px;
+  width: 400px;
+  z-index: 2;
 }
