@@ -1,30 +1,21 @@
 import plotly.express as px
 import pandas as pd
-from urllib.request import urlopen
-import json
 from data_retrieval import *
 from dash import Dash, dcc, html, Input, Output, callback
-
+#from jupyter_dash import JupyterDash
 
 pd.options.mode.chained_assignment = None
 
 app = Dash(__name__)
+#app = JupyterDash(__name__)
 
 #colors for css styling
 colors = {"background": "#212A31", "text": "#D3D9D4", 'primary': '#2E3944', 'secondary': '#124E66', 'tertiary': '#748D92'}
 
-#Get geoJSON data
-with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
-  geo = json.load(response)
-with open('./data/municipalities.geojson', 'r', encoding='utf-8') as f:
-  municipalities = json.load(f)
-for feature in municipalities['features']:
-  geo['features'].append(feature)
+geo = get_geo()
 
 #TODO: add extra visualization, probably a bar graph with selection regions during selected timeframe
-#TODO: when doing this, be sure to default to using the lasso tool for selection, fill all cities with 0 cases in an instance. 
 #TODO: experiment with color, particuarly rivers, lakes, ocean, cases, etc
-#TODO: fill all counties?
 class data_visualizer:
   def __init__(self, df):
     self.convert_to_geo(df)
@@ -70,6 +61,7 @@ class data_visualizer:
     )
 
     fig.update_layout(
+      dragmode='lasso',
       plot_bgcolor=colors['background'],
       paper_bgcolor=colors['background'],
       font_color=colors['text'],
@@ -116,7 +108,7 @@ class data_visualizer:
             {'label': 'December', 'value': '12'},
           ],
           multi=True,
-          className='dropdown'
+          className='dropdown',
         )
       ]),
     
@@ -158,6 +150,7 @@ class data_visualizer:
       else:
         filtered_df = filter_by_months(self.df, str(selected_year), selected_months)
 
+      print(filtered_df)
       fig = px.choropleth(
         filtered_df,
         geojson=geo,
@@ -172,6 +165,7 @@ class data_visualizer:
       )
 
       fig.update_layout(
+        dragmode='lasso',
         plot_bgcolor=colors['background'],
         paper_bgcolor=colors['background'],
         font_color=colors['text'],
@@ -186,3 +180,4 @@ class data_visualizer:
       return fig
     
     app.run(debug=True)
+    #app.runserver(debug=True)

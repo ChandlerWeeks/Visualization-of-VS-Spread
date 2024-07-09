@@ -1,6 +1,7 @@
 import pandas as pd
 import geopandas as gpd
-import calendar
+from urllib.request import urlopen
+import json
 
 class data_reciever:
   def __init__(self):
@@ -10,6 +11,18 @@ class data_reciever:
 
   def recieve_data(self):
     self.data = pd.read_csv(self.file)
+
+
+def get_geo():
+  #Get geoJSON data
+  with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
+    geo = json.load(response)
+  with open('./data/municipalities.geojson', 'r', encoding='utf-8') as f:
+    municipalities = json.load(f)
+  for feature in municipalities['features']:
+    geo['features'].append(feature)
+
+  return geo
     
     
 def get_fips():
@@ -34,7 +47,6 @@ def create_useable_mx_dataframe(data):
 
   data['date'] = pd.to_datetime(data['date'])
   data['year'] = data['date'].dt.to_period('Y')
-  month_dict = {i: calendar.month_name[i] for i in range(1, 13)}
   data['month'] = data['date'].dt.month
 
   new_data = pd.DataFrame({
@@ -63,7 +75,6 @@ def create_useable_us_dataframe(data):
 
   data['date'] = pd.to_datetime(data['date'])
   data['year'] = data['date'].dt.to_period('Y')
-  month_dict = {i: calendar.month_name[i] for i in range(1, 13)}
   data['month'] = data['date'].dt.month
 
   new_data = pd.DataFrame({
@@ -101,13 +112,23 @@ def get_locations(data):
 
 def filter_by_year(data, year):
   data = data[data['year'] == year]
-  return data
+  return aggregate_year_filtered_data(data)
 
 
-#TODO: merge cases that are in seperate months for this range
 def filter_by_months(data, year, months):
   combined_data = pd.DataFrame()
   for month in months:
     filtered_data_month = data[(data['year'] == year) & (data['month'] == int(month))]
     combined_data = pd.concat([combined_data, filtered_data_month], ignore_index=True)
-  return combined_data
+  #return combined_data
+  updated_data = aggregate_month_filtered_data(combined_data)
+  return updated_data
+
+
+def aggregate_month_filtered_data(data):
+  aggregated_data = data.groupby(['name', 'location', 'year'])['cases'].sum().reset_index()
+  return aggregated_data
+
+def aggregate_year_filtered_data(data):
+  aggregated_data = data.groupby(['name', 'location'])['cases'].sum().reset_index()
+  return aggregated_data
